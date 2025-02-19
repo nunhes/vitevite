@@ -1,8 +1,10 @@
 ---
 title: Ferramentas de deseño e desenvolvemento web
+description: As ferramentas de deseño web xogan un papel fundamental no desenvolvemento web
+lastUpdated: true
 ---
 
-# Ferramentas de deseño e desenvolvemento web
+# {{ $frontmatter.title }}
 
 As ferramentas de deseño web xogan un papel fundamental no desenvolvemento web, xa que afectan directamente ao **fluxo de traballo**, á **colaboración entre equipos** e á **calidade da experiencia do usuario (UX/UI)**. Aquí explico como se integran no proceso de desenvolvemento e por que son ferramentas clave.
 

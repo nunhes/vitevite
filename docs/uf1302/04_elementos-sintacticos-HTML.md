@@ -3,7 +3,7 @@ title: Elementos sintácticos de HTML
 lastUpdated: true
 ---
 
-# Elementos sintácticos de HTML
+# {{ $frontmatter.title }}
 
 HTML (HyperText Markup Language) é a linguaxe de marcas utilizada para estruturar páxinas web. A súa sintaxe baséase en elementos que permiten organizar o contido e definir a súa semántica. Aquí tes unha explicación detallada dos principais elementos sintácticos de HTML, orientada a persoas que están a aprender desenvolvemento web.
 

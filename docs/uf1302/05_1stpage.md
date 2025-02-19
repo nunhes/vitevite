@@ -3,7 +3,7 @@ title: Creando a túa primeira páxina web
 lastUpdated: true
 ---
 
-# Creando a túa primeira páxina web
+# {{ $frontmatter.title }}
 
 Se podes, imaxina un tempo antes da invención de Internet. Os sitios web non existían e os libros, impresos en papel e ben encadernados, eran a túa principal fonte de información. Foi necesario un esforzo considerable -e ler- para rastrexar a información exacta que buscabas.
 

@@ -3,7 +3,7 @@ title: HTML semántico
 lastUpdated: true
 ---
 
-# Que é HTML semántico?
+# {{ $frontmatter.title }}
 
 O HTML semántico, tamén coñecido como marcado semántico, fai referencia ao uso de [etiquetas HTML](https://www.semrush.com/blog/viewport-meta-tag/) que transmiten o significado —ou a semántica— do contido contido nelas.
 

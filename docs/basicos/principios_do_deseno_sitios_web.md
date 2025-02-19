@@ -1,9 +1,10 @@
 ---
 title: 10 principios esenciais do deseño de sitios web
 description: Aqui atoparas unha guía dos pasos a seguir na practica do deseño web.
+lastUpdated: true
 ---
 
-# Principios do deseño de sitios web
+# {{ $frontmatter.title }}
 
 As decisións de deseño que tomas para o teu sitio web teñen un gran impacto na súa experiencia de usuario e na súa funcionalidade, mesmo para os visitantes do sitio sen coñecementos de deseño. Para os navegadores web distraídos que queren respostas rápidas, é fundamental unha primeira impresión forte. 
 

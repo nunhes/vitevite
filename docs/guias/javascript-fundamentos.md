@@ -1,8 +1,9 @@
 ---
 title: JavaScript-Fundamentos, funcionalidades e boas prácticas
+lastUpdated: true
 ---
 
-# JavaScript 
+# {{ $frontmatter.title }}
 
 JavaScript é unha linguaxe de programación amplamente utilizado que permite agregar interactividade e funcionalidades avanzadas ás páxinas web. JavaScript é un estándar no desenvolvemento web e é compatible con todos os navegadores modernos.
 

@@ -1,8 +1,9 @@
 ---
 title: Linguaxes de marcas i
+lastUpdated: true
 ---
 
-# Linguaxes de marcas i
+# {{ $frontmatter.title }}
 
 > Unha linguaxe de marcas é un sistema de codificación que utiliza etiquetas e marcadores para definir a estrutura e o formato dun documento. As linguaxes de marcas usan instrucións específicas para que os ordenadores poidan comprender e representar a información de forma coherente.
 

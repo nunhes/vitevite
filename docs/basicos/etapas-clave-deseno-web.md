@@ -1,9 +1,10 @@
 ---
 title: Etapas clave no deseño de sitios web
 description: Aqui atoparás unha guía dos pasos a seguir na practica do deseño web.
+lastUpdated: true
 ---
 
-# Etapas do deseño de sitios web
+# {{ $frontmatter.title }}
 
 Hai pasos de planificación no proceso do deseño web que veñen moito antes de [escoller un nome de dominio](https://es.squarespace.com/blog/como-elegir-un-nombre-de-dominio) ou comezar [a construír un sitio web](https://es.squarespace.com/blog/como-crear-una-pagina-web) . Tómate o teu tempo coa fase de planificación antes de comezar a navegar polos [modelos](https://es.squarespace.com/blog/que-es-una-plantilla-web). Isto facilitará moito o resto do proceso de desenvolvemento do sitio web.
 

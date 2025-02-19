@@ -4,21 +4,27 @@ layout: home
 
 hero:
   name: Guías
- 
+  image:
+    src: /strategy-brainstorm-svgrepo-com.svg
+    alt: DAW 2025
   actions:
 
 
 features:
-  - title: HTML
+  - icon: 📐
+    title: HTML
     details: A linguaxe da www
     link: /guias/linguaxehtml
-  - title: CSS
+  - icon: 🎨
+    title: CSS
     details: Follas de estilo en cascada
     link: /guias/follasdeestiloencascada
-  - title: JavaScript
+  - icon: ⚡
+    title: JavaScript
     details: Linguaxe de guión do lado cliente
     link: /guias/javascript-fundamentos
-  - title: Markdown
+  - icon: 🛠️
+    title: Markdown
     details: Markdown
     link: /guias/markdown
 ---

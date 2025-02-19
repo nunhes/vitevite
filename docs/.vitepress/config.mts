@@ -24,6 +24,7 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/favicon.svg',
     siteTitle: 'DAW 2025',
     nav: [
       { text: 'Home', link: 'https://bitsolto.com/daw2025/' },
@@ -50,12 +51,13 @@ export default defineConfig({
         text: 'Unidades',
         items: [
           { text: 'UF1302', link: '/uf1302/readme' },
+          { text: 'UF1303', link: '/uf1303/readme' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
     lastUpdated: {
-      text: 'Updated at',
+      text: 'Actualizado o',
       formatOptions: {
         dateStyle: 'full',
         timeStyle: 'medium'
@@ -72,6 +74,8 @@ export default defineConfig({
       message: 'i.berndz.',
       copyright: '© 2019-present'
     },
+    externalLinkIcon: true,
+    outlineTitle: 'Nesta paxina'
   },
   buildConcurrency: 1, // this will be very slow, but please check if out of heap issue happens with this too
 })

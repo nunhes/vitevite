@@ -1,8 +1,9 @@
 ---
 title: Follas de estilo en cascada. CSS II
+lastUpdated: true
 ---
 
-# CSS (i)
+# {{ $frontmatter.title }}
 
 ## 27. Exhibición
 

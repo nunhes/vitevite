@@ -1,9 +1,10 @@
 ---
 title: Conceptos básicos da rede para o desenvolvemento full-stack
+description: A rede constitúe a columna vertebral de calquera interacción dixital, permitindo unha comunicación entre dispositivos, servidores e aplicacións
+lastUpdated: true
 ---
 
-
-# Conceptos básicos da rede para o desenvolvemento full-stack
+# {{ $frontmatter.title }}
 
 No ámbito dinámico do desenvolvemento full-stack, é indispensable comprender os fundamentos da rede. ***A rede constitúe a columna vertebral de calquera interacción dixital, permitindo unha comunicación perfecta entre dispositivos, servidores e aplicacións\*** . Tanto se es un programador incipiente como un programador experimentado, comprender os conceptos básicos da rede é primordial. Esta publicación de blog ten como obxectivo desmitificar os elementos esenciais da rede para desenvolvedores de pila completa, proporcionando unha base sólida para a súa viaxe no panorama dixital.
 

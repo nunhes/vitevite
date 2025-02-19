@@ -3,8 +3,7 @@ title: Accesibilidade i
 lastUpdated: true
 ---
 
-
-# Accesibilidade i
+# {{ $frontmatter.title }}
 
 - [Garantir que as páxinas web sexan accesibles para todos](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/1-introduction) 1 minuto
 - [Navegar pola web con máis dun navegador](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/2-client-tools) 2 minuto

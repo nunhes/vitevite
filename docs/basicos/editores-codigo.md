@@ -1,8 +1,10 @@
 ---
 title: Editores de código
+description: Os editores de código son ferramentas que os programadores e desenvolvedores web empregan para escribir e editar código
+lastUpdated: true
 ---
 
-# Editores de código
+# {{ $frontmatter.title }}
 
 Os editores de código son ferramentas que os programadores e desenvolvedores web empregan para escribir e editar código.
 

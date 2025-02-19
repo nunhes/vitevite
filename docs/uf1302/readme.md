@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "UF1302"
   text: "Creación de páxinas web con linguaxe de marcas"
+  image:
+    src: /html5.svg
+    alt: DAW 2025
   actions:
     - theme: brand
       text: Linguaxes de marcas
@@ -38,21 +41,25 @@ hero:
       link: /uf1302/09_html-semantico
 
 features:
-  - title: HTML
+  - icon: 📐
+    title: HTML
     details: A linguaxe da www
     link: /guias/linguaxehtml
-  - title: CSS
+  - icon: 🎨
+    title: CSS
     details: Follas de estilo en cascada
     link: /guias/follasdeestiloencascada
-  - title: JavaScript
+  - icon: ⚡
+    title: JavaScript
     details: Linguaxe de guión do lado cliente
     link: /guias/javascript-fundamentos
-  - title: Markdown
+  - icon: 🛠️
+    title: Markdown
     details: Markdown
     link: /guias/markdown
 ---
 
-Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de desenvolvemento web que estás a realizar. 
+Aquí atoparás lecturas complementarias as sesións lectivas e [prácticas](https://bitsolto.com/exercicios) do curso de desenvolvemento web que estás a realizar. 
 
 
 #### Extras

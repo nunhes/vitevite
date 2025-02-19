@@ -1,8 +1,9 @@
 ---
 title: Follas de estilo en cascada. CSS I
+lastUpdated: true
 ---
 
-# CSS (i)
+# {{ $frontmatter.title }}
 
 CSS, abreviatura de **Cascading Style Sheets** - follas de estilo en cascada-, é un dos principais bloques de construción da web. A súa historia remóntase aos anos 90 e xunto co HTML cambiou moito dende a súa aparición.
 

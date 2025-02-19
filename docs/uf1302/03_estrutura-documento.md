@@ -1,5 +1,6 @@
 ---
 title: Introdución á estrutura dun documento en linguaxe de marcas
+lastUpdated: true
 ---
 
 # Estrutura dun documento en linguaxe de marcas

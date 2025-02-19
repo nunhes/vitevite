@@ -6,6 +6,9 @@ hero:
   name: "DAW 2025"
   text: "Confección e publicación de páxinas web "
   # tagline: My great project tagline
+  image:
+    src: /Brick_Magenta.png
+    alt: DAW 2025
   actions:  
     - theme: alt
       text: Básicos
@@ -16,17 +19,25 @@ hero:
     - theme: brand
       text: uf1302
       link: /uf1302/readme
+    - theme: brand
+      text: uf1303
+      link: /uf1303/readme
+
 features:
-  - title: HTML
+  - icon: 📐
+    title: HTML
     details: A linguaxe da www
     link: /guias/linguaxehtml
-  - title: CSS
+  - icon: 🎨
+    title: CSS
     details: Follas de estilo en cascada
     link: /guias/follasdeestiloencascada
-  - title: JavaScript
+  - icon: ⚡
+    title: JavaScript
     details: Linguaxe de guión do lado cliente
     link: /guias/javascript-fundamentos
-  - title: Markdown
+  - icon: 🛠️
+    title: Markdown
     details: Markdown
     link: /guias/markdown
 ---

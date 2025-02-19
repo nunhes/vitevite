@@ -2,9 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-
 hero:
   name: "Básicos"
+  image:
+    src: /web-ui-svgrepo-com.svg
+    alt: DAW 2025
   actions:
     - theme: alt
       text: Como funciona Internet
@@ -24,18 +26,25 @@ hero:
     - theme: brand
       text: Editores de código
       link: /basicos/editores-codigo
+    - theme: brand
+      text: Git, unha guía de inicio
+      link: /basicos/unha-guia-de-inicio-Git
 
 features:
-  - title: HTML
+  - icon: 📐
+    title: HTML
     details: A linguaxe da www
     link: /guias/linguaxehtml
-  - title: CSS
+  - icon: 🎨
+    title: CSS
     details: Follas de estilo en cascada
     link: /guias/follasdeestiloencascada
-  - title: JavaScript
+  - icon: ⚡
+    title: JavaScript
     details: Linguaxe de guión do lado cliente
     link: /guias/javascript-fundamentos
-  - title: Markdown
+  - icon: 🛠️
+    title: Markdown
     details: Markdown
     link: /guias/markdown
 ---

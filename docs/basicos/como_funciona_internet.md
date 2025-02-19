@@ -1,4 +1,10 @@
-# Introdución ao funcionamento de Internet
+---
+title: Introdución ao funcionamento de Internet
+description: Aqui atoparás unha guía para coñecer como funciona Internet
+lastUpdated: true
+---
+
+# {{ $frontmatter.title }}
 
 ## 1. Internet: A infraestrutura global de comunicación
 

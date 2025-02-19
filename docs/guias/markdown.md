@@ -1,9 +1,10 @@
 ---
 title: Introdución a Markdown
 description: Markdown é unha linguaxe de marcado sinxelo e poderoso
+lastUpdated: true
 ---
 
-# Markdown
+# {{ $frontmatter.title }}
 
 ## Que é Markdown?
 

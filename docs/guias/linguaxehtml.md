@@ -1,8 +1,9 @@
 ---
 title: HTML
+lastUpdated: true
 ---
 
-# HTML
+# {{ $frontmatter.title }}
 
 > Escribín este manual breve para axudarme a comprender o tema, xa que cando necesito explicar algo, é mellor que primeiro me asegure de coñecer a cousa por dentro.
 

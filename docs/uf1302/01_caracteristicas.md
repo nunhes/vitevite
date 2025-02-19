@@ -3,7 +3,7 @@ title: Linguaxes de marcas ii
 lastUpdated: true
 ---
 
-# As linguaxes de marcas ii
+# {{ $frontmatter.title }}
 
 ## 1. Recoñecemento das características das linguaxes de marcas
 
