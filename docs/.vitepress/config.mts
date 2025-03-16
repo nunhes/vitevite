@@ -52,6 +52,7 @@ export default defineConfig({
         items: [
           { text: 'UF1302', link: '/uf1302/readme' },
           { text: 'UF1303', link: '/uf1303/readme' },
+          { text: 'UF1304', link: '/uf1304/readme' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }

@@ -10,19 +10,14 @@ hero:
     alt: DAW 2025
   actions:
     - theme: brand
-      text: CSS 101
-      link: /uf1303/CSS-101
+      text: Depurar CSS
+      link: /uf1304/Debug-CSS
     - theme: brand
-      text: Unidades de medida CSS
-      link: /uf1303/unidades-de-medida-CSS
+      text: Marcos CSS
+      link: /uf1304/Marcos_CSS
     - theme: brand
-      text: Reset CSS e Normalización CSS
-      link: /uf1303/Reset-Normalizacion-CSS
-    - text: Guía de estilo
-      link: /uf1303/09-guia-de-estilo
-    - theme: brand
-      text: Introducción a SASS
-      link: /uf1303/CompletSASS
+      text: Formularios receptivos
+      link: /uf1304/formularios-receptivos
 
 features:
   - icon: 📐

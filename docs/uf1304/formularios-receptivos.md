@@ -4,7 +4,7 @@ Na era dixital actual, os formularios son unha parte esencial de calquera sitio 
 
 ## Comprensión dos fundamentos dos formularios responsivos
 
-Os formularios sensibles [axústanse a diferentes tamaños](https://developer.android.com/develop/ui/compose/layouts/adaptive/support-different-screen-sizes#:~:text=Responsive%2Fadaptive layouts change based,display sizes (adaptive design).) e orientacións de pantalla, o que garante que os usuarios poidan enchelos facilmente independentemente do dispositivo que estean a usar. Isto implica non só facer que os elementos do formulario redimensionen e reposicionen a si mesmos, senón tamén garantir que a experiencia global do usuario sexa consistente e intuitiva.
+Os formularios sensibles axústanse a diferentes tamaños e orientacións de pantalla, o que garante que os usuarios poidan enchelos facilmente independentemente do dispositivo que estean a usar. Isto implica non só facer que os elementos do formulario redimensionen e reposicionen a si mesmos, senón tamén garantir que a experiencia global do usuario sexa consistente e intuitiva.
 
 ### A importancia das formas de resposta
 
