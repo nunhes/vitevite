@@ -1,4 +1,11 @@
-# Marcos CSS
+---
+title: Marcos CSS
+description: Con tantos marcos CSS para escoller, pode ser difícil decidir cal é  marco axeitado para a túa aplicación.
+lastUpdated: true
+---
+
+# {{ $frontmatter.title }}
+
 
 CSS percorreu un longo camiño nos últimos anos. No pasado, usaba CSS para crear aplicacións web de aspecto sinxelo que se basean en táboas HTML e flotantes CSS como sistemas de deseño. E agora podes crear interfaces de usuario interactivas complexas que resulten atractivas con deseños elegantes.
 
@@ -431,17 +438,17 @@ Algúns aspectos clave a ter en conta son:
 
 **Táboa de comparación dos diferentes marcos CSS mencionados neste resumo**
 
-|      Marco                 |    Aproximación                                                           |     Tipo                                     |         Personalización                                                      |             Comunidade                         |
-| :-------------------- | :----------------------------------------------------------- | :------------------------------------- | :----------------------------------------------------------- | :--------------------------------- |
-| **Bootstrap**         | Baseado en compoñentes, utiliza compoñentes predefinidos     | marco CSS                              | Moderado, ofrece variables para a personalización            | Comunidade grande e establecida    |
-| **Tailwind CSS** | Primeiro de utilidade, usa clases de utilidade para crear deseños | Marco de utilidade                     | Altamente personalizable, baseado en clases de utilidade     | Comunidade en crecemento           |
-| **Material IU** | Baseado en compoñentes, utiliza compoñentes predefinidos     | Marco de interface de usuario de React | Moderado, ofrece variables para a personalización            | Comunidade React forte             |
-| **StyledComponents** | CSS-in-JS, permite escribir CSS dentro de JavaScript         | Biblioteca de estilismo                | Enfoque CSS-in-JS altamente personalizable                   | Adopción crecente                  |
-| **Fundation**         | Sistema e compoñentes de reixa modulares e personalizables   | marco CSS                              | Os compoñentes altos e modulares permiten unha ampla personalización | Menor en comparación con Bootstrap |
-| **Chakra IU**  | Baseado en compoñentes, centrado na accesibilidade           | Marco de interface de usuario de React | Moderado, ofrece variables para a personalización            | Comunidade en crecemento           |
-| **Emotion**           | CSS-in-JS, lixeiro e de alto rendemento                      | Biblioteca de estilismo                | Altamente personalizable con CSS-in-JS                       | Aumento da adopción                |
-| **Bulma**             | Modular, baseado en Flexbox, sinxelo e flexible              | marco CSS                              | Moderado, ofrece variables para a personalización            | Comunidade de usuarios decente     |
-| **Pure CSS**     | Minimalista, pequeno e sensible                              | marco CSS                              | Limitado, fomenta o uso de estilos propios                   | Comunidade máis pequena            |
+| Marco                | Aproximación                                                      | Tipo                                   | Personalización                                                      | Comunidade                         |
+| :------------------- | :---------------------------------------------------------------- | :------------------------------------- | :------------------------------------------------------------------- | :--------------------------------- |
+| **Bootstrap**        | Baseado en compoñentes, utiliza compoñentes predefinidos          | marco CSS                              | Moderado, ofrece variables para a personalización                    | Comunidade grande e establecida    |
+| **Tailwind CSS**     | Primeiro de utilidade, usa clases de utilidade para crear deseños | Marco de utilidade                     | Altamente personalizable, baseado en clases de utilidade             | Comunidade en crecemento           |
+| **Material IU**      | Baseado en compoñentes, utiliza compoñentes predefinidos          | Marco de interface de usuario de React | Moderado, ofrece variables para a personalización                    | Comunidade React forte             |
+| **StyledComponents** | CSS-in-JS, permite escribir CSS dentro de JavaScript              | Biblioteca de estilismo                | Enfoque CSS-in-JS altamente personalizable                           | Adopción crecente                  |
+| **Fundation**        | Sistema e compoñentes de reixa modulares e personalizables        | marco CSS                              | Os compoñentes altos e modulares permiten unha ampla personalización | Menor en comparación con Bootstrap |
+| **Chakra IU**        | Baseado en compoñentes, centrado na accesibilidade                | Marco de interface de usuario de React | Moderado, ofrece variables para a personalización                    | Comunidade en crecemento           |
+| **Emotion**          | CSS-in-JS, lixeiro e de alto rendemento                           | Biblioteca de estilismo                | Altamente personalizable con CSS-in-JS                               | Aumento da adopción                |
+| **Bulma**            | Modular, baseado en Flexbox, sinxelo e flexible                   | marco CSS                              | Moderado, ofrece variables para a personalización                    | Comunidade de usuarios decente     |
+| **Pure CSS**         | Minimalista, pequeno e sensible                                   | marco CSS                              | Limitado, fomenta o uso de estilos propios                           | Comunidade máis pequena            |
 
 A táboa anterior ofrece unha visión xeral dos marcos CSS que cubrimos en diferentes aspectos, como o seu enfoque, personalización, curva de aprendizaxe, soporte comunitario, compoñentes dispoñibles e estilos.
 
@@ -458,3 +465,7 @@ Entón, vai adiante e elixe o marco que mellor se adapte ao teu proxecto e embá
 ---
 
 _ref:_ [*Css Frameworks*](https://www.freecodecamp.org/news/best-css-frameworks-for-frontend-devs)
+
+---
+
+DAW🧊2025

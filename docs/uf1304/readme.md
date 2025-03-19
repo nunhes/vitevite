@@ -18,6 +18,12 @@ hero:
     - theme: brand
       text: Formularios receptivos
       link: /uf1304/formularios-receptivos
+    - theme: brand
+      text: Formularios accesibles
+      link: /uf1304/formularios-accesibles
+    - theme: brand
+      text: Táboas HTML
+      link: /uf1304/taboas
 
 features:
   - icon: 📐
@@ -43,13 +49,13 @@ Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de 
 
 #### Extras
 - **DOCUMENTACIÓN**
-    - [Como funciona realmente CSS?](https://developer.mozilla.org/es/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)
-    - [Lenguaje CSS](https://lenguajecss.com/)
-    - [W3Schools](https://www.w3schools.com/css/)
-    - [CSSTricks](https://css-tricks.com/)
-    - [Learn X in Y minutes](https://learnxinyminutes.com/)
+    - [The Form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+    - [form](https://developer.mozilla.org/es/docs/Web/HTML/Element/form)
+    - [Advanced form styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Advanced_form_styling)
+    - [W3Schools](https://www.w3schools.com/html/html_forms.asp)
+    - [web.dev](https://web.dev/learn/forms)
 
 - **FERRAMENTAS**
     - [https://codepen.io/](https://codepen.io/)
     - [https://caniuse.com/](https://caniuse.com/)
-    - [https://excalidraw.com/](https://excalidraw.com/)
+    - [https://codi.link/](https://codi.link/)

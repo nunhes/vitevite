@@ -1,4 +1,10 @@
-# Como depurar CSS de forma eficaz
+---
+title: Como depurar CSS de forma eficaz
+description: Buscar e corrixir erros forma parte do noso traballo como programadores
+lastUpdated: true
+---
+
+# {{ $frontmatter.title }}
 
 Buscar e corrixir erros forma parte do noso traballo como programadores, polo que debemos buscar unha solución por moi difícil que pareza a tarefa. Claro que poderiamos evitar moitos destes problemas se tivésemos un coñecemento axeitado da ferramenta ou linguaxe de programación que estamos a usar. Aínda así os erros son parte do noso día a día. As veces cometeralos ti, outras veces alguén do equipo, e outras pode que a sorte nos enfronte con algún posible bug ou inconsistencia. E a saída sempre será buscar unha solución.
 
@@ -345,5 +351,8 @@ CSS pode ser complicado, e descubrir que facer e que buscar cando tes erros pode
 
 ---
 
-Tradución do artigo publicado por Nelson Michael o 22 de novembro de 2021 en [Birdeatsbug](https://birdeatsbug.com/blog/how-to-effectively-debug-css)
+*Tradución do artigo publicado por Nelson Michael o 22 de novembro de 2021 en [Birdeatsbug](https://birdeatsbug.com/blog/how-to-effectively-debug-css)*
 
+---
+
+DAW🧊2025

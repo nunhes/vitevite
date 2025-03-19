@@ -120,3 +120,6 @@ Unha marca ou negocio de confianza parece profesional, pero unha marca profesion
 ---
 
 <small>*Tradución aproximada do artigo de [Amanda Shih-Goel](https://www.ashihgoel.com/) para [Squarespace](https://es.squarespace.com/blog/principios-esenciales-de-diseno-web)*</small>
+
+
+*_ref*: [Responsive Design](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)

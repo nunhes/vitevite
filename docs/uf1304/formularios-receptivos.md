@@ -1,4 +1,10 @@
-# Formularios receptivos
+---
+title: Formularios receptivos
+description: Os formularios son unha parte esencial de calquera sitio web
+lastUpdated: true
+---
+
+# {{ $frontmatter.title }}
 
 Na era dixital actual, os formularios son unha parte esencial de calquera sitio web. Xa sexa para rexistrarse nun boletín, cubrir un formulario de contacto ou completar unha compra, os formularios están en todas partes. Non obstante, pode ser un reto garantir que estes formularios respondan e sexan fáciles de usar en todos os dispositivos. Un formulario responsive adáptase sen problemas aos diferentes tamaños de pantalla, proporcionando unha experiencia de usuario perfecta tanto se se ve nun escritorio, unha tableta ou un teléfono intelixente. Neste artigo, exploraremos as mellores prácticas para crear formularios adaptables e proporcionaremos exemplos detallados para axudarche a implementar estas prácticas de forma eficaz.
 
@@ -1281,3 +1287,7 @@ ref:
 7. https://workik.com/contact-us-designs-with-html-css-and-javascript
 8. https://blog.hubspot.com/website/html-form-template
 9. https://freefrontend.com/css-forms/
+
+---
+
+DAW🧊2025
