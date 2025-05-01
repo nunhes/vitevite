@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@mermaid-js/mermaid-mindmap':
+        specifier: ^9.3.0
+        version: 9.3.0
       mermaid:
         specifier: ^11.4.1
         version: 11.4.1
@@ -1369,8 +1372,7 @@ snapshots:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
 
-  '@braintree/sanitize-url@6.0.4':
-    optional: true
+  '@braintree/sanitize-url@6.0.4': {}
 
   '@braintree/sanitize-url@7.1.1': {}
 
@@ -1514,7 +1516,6 @@ snapshots:
       d3: 7.9.0
       khroma: 2.1.0
       non-layered-tidy-tree-layout: 2.0.2
-    optional: true
 
   '@mermaid-js/parser@0.3.0':
     dependencies:
@@ -2313,8 +2314,7 @@ snapshots:
 
   nanoid@3.3.8: {}
 
-  non-layered-tidy-tree-layout@2.0.2:
-    optional: true
+  non-layered-tidy-tree-layout@2.0.2: {}
 
   oniguruma-to-es@2.3.0:
     dependencies:

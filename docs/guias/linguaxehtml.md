@@ -2227,10 +2227,15 @@ Este atributo permítenos asociar un elemento con outro elemento que serve de de
 Gústame un deseño minimalista nos meus sitios. O meu blog, por exemplo, é principalmente contido, con algunhas ligazóns na barra lateral. Pero algunhas cousas da barra lateral son só elementos visuais que non se suman á experiencia dunha persoa que non pode ver a páxina. Como a imaxe do meu logotipo ou o selector de temas escuros/brillantes.
 
 Engadir o atributo `aria-hidden="true"` indicará aos lectores de pantalla que ignoren ese elemento.
-....
 
-\* _in progress_
+...
+
+Esta é só unha introdución ao tema. Para saber máis:
+
+https://www.w3.org/TR/WCAG20/
+https://webaim.org
+https://developers.google.com/web/fundamentals/accessibility/
 
 ---
 
-- "HTML Unleashed" de Flavio Copes, 1997
+- "HTML Unleashed" 2019

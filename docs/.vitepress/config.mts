@@ -1,4 +1,5 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
+// import { withMermaid } from "vitepress-plugin-mermaid";
 
 
 // https://vitepress.dev/reference/site-config
@@ -53,6 +54,7 @@ export default defineConfig({
           { text: 'UF1302', link: '/uf1302/readme' },
           { text: 'UF1303', link: '/uf1303/readme' },
           { text: 'UF1304', link: '/uf1304/readme' },
+          { text: 'UF1305', link: '/uf1305/readme' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
