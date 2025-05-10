@@ -2238,4 +2238,4 @@ https://developers.google.com/web/fundamentals/accessibility/
 
 ---
 
-- "HTML Unleashed" 2019
+- "HTML Unleashed" 2019 Flavio Copes

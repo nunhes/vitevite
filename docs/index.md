@@ -28,6 +28,9 @@ hero:
     - theme: brand
       text: uf1305
       link: /uf1305/readme
+    - theme: brand
+      text: uf1306
+      link: /uf1306/readme
 
 features:
   - icon: 📐

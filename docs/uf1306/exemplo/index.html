@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="gl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Rexistro</title>
+    <style>
+        .erro { color: red; }
+        .exito { color: green; }
+        .oculto { display: none; }
+    </style>
+</head>
+<body>
+    <h1>Rexistro de Usuario</h1>
+    <form id="formularioRexistro">
+        <div>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome">
+            <span id="erroNome" class="erro oculto"></span>
+        </div>
+        
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+            <span id="erroEmail" class="erro oculto"></span>
+        </div>
+        
+        <div>
+            <label for="contrasinal">Contrasinal:</label>
+            <input type="password" id="contrasinal" name="contrasinal">
+            <span id="erroContrasinal" class="erro oculto"></span>
+        </div>
+        
+        <div>
+            <label for="confirmarContrasinal">Confirmar Contrasinal:</label>
+            <input type="password" id="confirmarContrasinal" name="confirmarContrasinal">
+            <span id="erroConfirmarContrasinal" class="erro oculto"></span>
+        </div>
+        
+        <button type="submit">Rexistrarse</button>
+    </form>
+    
+    <div id="mensaxeExito" class="exito oculto"></div>
+    
+    <script src="validacion.js"></script>
+</body>
+</html>
