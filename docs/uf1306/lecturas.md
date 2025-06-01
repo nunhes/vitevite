@@ -2,7 +2,7 @@
 
 - [Fundamentos de JavaScript](https://developer.mozilla.org/es/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 - [Recursos gratuítos para aprender javascript](https://www.freecodecamp.org/espanol/news/30-recursos-gratuitos-para-ayudarte-a-aprender-los-fundamentos-de-javascript/)
-- 
+- [Preguntas e respostas de entrevistas sobre JavaScript](https://www.turing.com/es/interview-questions/javascript) 
 
 
 

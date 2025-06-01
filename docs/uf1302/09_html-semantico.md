@@ -15,6 +15,12 @@ En oposición ao HTML non semántico, que usa etiquetas que non transmiten signi
 
 ***Nota:** HTML é unha linguaxe que se usa para estruturar un sitio web. Esta guía supón unha comprensión básica de HTML. Se es un principiante total, consultar unha [guía de introdución HTML](https://www.w3schools.com/html/html_intro.asp) será útil.*
 
+A HTML creouse orixinalmente como unha linguaxe de marcado para describir documentos. A medida que Internet medraba e era adoptada por máis xente, as súas necesidades mudaban. Aínda que Internet estaba pensado orixinalmente para compartir documentos científicos, agora a xente tamén quería compartir outras cousas.
+
+Dado que a web non foi construída inicialmente para ser deseñada, os programadores empregaron diferentes trucos para organizar as cousas de diferentes xeitos. En lugar de usar o <table></table>para describir a información mediante unha táboa, os programadores usábano para posicionar outros elementos nunha páxina.
+
+A medida que o uso de deseños visuais progresaba, os programadores comezaron a usar unha etiqueta xenérica "non semántica" como <div>. A miúdo daban a estes elementos un atributo classou idpara describir o seu propósito. Por exemplo: `<div class="header">`.
+
 ## Que son as etiquetas HTML semánticas?
 
 As etiquetas HTML semánticas son etiquetas que definen o significado do contido que conteñen. 
@@ -25,7 +31,37 @@ Por outra banda, etiquetas como **``<div>``** e **``<span>``** son exemplos típ
 
 ## Por que necesito usar etiquetas HTML semánticas?
 
+Elementos como `<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, e `<footer>` actúan máis ou menos como elementos `<div>`. **Agrupan outros elementos en seccións de páxina**. Non obstante, onde unha etiqueta  `<div>` podería conter calquera tipo de información, é doado identificar que tipo de información iría nunha rexión semántica `<header>`.
+
 Ademais da razón obvia de que as etiquetas HTML semánticas son máis fáciles de ler e comprender, por exemplo, por parte dos desenvolvedores web que revisan o código, hai dúas razóns máis específicas polas que debes usar sempre etiquetas semánticas.
+
+**HTML semántico**
+```html
+<header></header>
+<section>
+    <article>
+        <figure>
+            <img>
+            <figcaption></figcaption>
+        </figure>
+    </article>
+</section>
+<footer></footer>
+```
+
+**HTML NON Semántico**
+```html
+<div id="header"></div>
+<div class="section">
+    <div class="article">
+        <div class="figure">
+            <img>
+            <div class="figcaption"></div>
+        </div>
+    </div>
+</div>
+<div id="footer"></div>
+```
 
 ### Accesibilidade
 
@@ -80,13 +116,13 @@ Estas etiquetas "estruturais" introducíronse cando HTML4 se actualizou a HTML5.
 
 Aquí tes unha lista completa: 
 
-- **``<header>``** : a etiqueta de cabeceira define o contido que debe considerarse a información introdutoria dunha páxina ou sección
-- **``<nav>``** : a etiqueta de navegación úsase para as ligazóns de navegación. Pódese aniñar dentro da etiqueta ``<header>``, pero as etiquetas de navegación secundaria ``<nav>`` tamén se usan habitualmente noutros lugares da páxina.
-- **``<main>``** : esta etiqueta contén o contido principal (tamén chamado corpo) dunha páxina. Só debería haber unha etiqueta por páxina.
-- **``<article>``** : a etiqueta do artigo define o contido que podería estar independente da páxina ou sitio no que se atopa. Non significa necesariamente unha "publicación de blog". Pense nel máis como "unha peza de roupa", un artigo autónomo que se pode usar en varios contextos.
-- **``<section>``** : usar ``<section>`` é unha forma de agrupar contido próximo dun tema similar. Unha etiqueta de sección difire dunha etiqueta de artigo. Non é necesariamente autónomo, pero forma parte doutra cousa. 
-- **``<aside>``** : un elemento aparte define o contido que é menos importante. Adoita usarse para barras laterais, áreas que engaden información complementaria pero non esencial.
-- **``<footer>``** : usa ``<footer>`` na parte inferior dunha páxina. Normalmente inclúe información de contacto, información de copyright e algunha navegación do sitio.
+- **``<header>``**: a etiqueta de cabeceira define o contido que debe considerarse a información introdutoria dunha páxina ou sección
+- **``<nav>``**: a etiqueta de navegación úsase para as ligazóns de navegación. Pódese aniñar dentro da etiqueta ``<header>``, pero as etiquetas de navegación secundaria ``<nav>`` tamén se usan habitualmente noutros lugares da páxina.
+- **``<main>``**: esta etiqueta contén o contido principal (tamén chamado corpo) dunha páxina. Só debería haber unha etiqueta por páxina.
+- **``<article>``**: a etiqueta do artigo define o contido que podería estar independente da páxina ou sitio no que se atopa. Non significa necesariamente unha "publicación de blog". Pense nel máis como "unha peza de roupa", un artigo autónomo que se pode usar en varios contextos.
+- **``<section>``**: usar ``<section>`` é unha forma de agrupar contido próximo dun tema similar. Unha etiqueta de sección difire dunha etiqueta de artigo. Non é necesariamente autónomo, pero forma parte doutra cousa. 
+- **``<aside>``**: un elemento aparte define o contido que é menos importante. Adoita usarse para barras laterais, áreas que engaden información complementaria pero non esencial.
+- **``<footer>``**: usa ``<footer>`` na parte inferior dunha páxina. Normalmente inclúe información de contacto, información de copyright e algunha navegación do sitio.
 
 ### Etiquetas semánticas HTML para texto
 
@@ -103,9 +139,139 @@ Estes son algúns dos exemplos máis comúns:
 - **``<q>``** / ``<blockquote>``: unha cita do texto. Use ``<blockquote>`` para citas longas con varias liñas e ``<q>`` para citas en liña máis curtas.
 - **``<em>``** (énfase): Úsase para texto que se debe enfatizar.
 - **``<strong>``** (énfase forte): úsase para texto que se debe enfatizar moito.
-- **``<code>``** : un bloque de código informático.
+- **``<code>``**: un bloque de código informático.
 
-_**Nota:** só enumeramos algunhas das etiquetas HTML semánticas máis comúns. Podes usar moitas outras, como *``<summary>``, ``<time>``, ``<address>``, ``<video>``*, etc.- para facilitar a comprensión do contido do teu sitio web. Para descubrir máis elementos semánticos HTML, consulta a [lista de todas as etiquetas HTML](https://www.w3schools.com/TAGS/default.asp) de W3Schools._*_
+_**Nota:** só enumeramos algunhas das etiquetas HTML semánticas máis comúns. Podes usar moitas outras, como *``<summary>``, ``<time>``, ``<address>``, ``<video>``*, etc.- para facilitar a comprensión do contido do teu sitio web. Para descubrir máis elementos semánticos HTML, consulta a [lista de todas as etiquetas HTML](https://www.w3schools.com/TAGS/default.asp) de W3Schools._
+
+## Mellor HTML semántico
+
+En primeiro lugar, é moito **máis doado de ler** . Isto é probablemente o primeiro que notarás ao ver o primeiro bloque de código que usa elementos semánticos. Este é un pequeno exemplo, pero como programador podes estar a ler centos ou miles de liñas de código. Canto máis doado sexa ler e comprender ese código, máis doado che fará o traballo.
+
+Ten **unha maior accesibilidade** . Non es o único que atopa os elementos semánticos máis fáciles de entender. Os motores de busca e as tecnoloxías de asistencia (como os lectores de pantalla para usuarios con discapacidade visual) tamén poden comprender mellor o contexto e o contido do teu sitio web, o que significa unha mellor experiencia para os teus usuarios.
+
+En xeral, os elementos semánticos tamén levan a **un código máis consistente** . Ao crear unha cabeceira usando elementos non semánticos, diferentes programadores poden escribilo como `<div class="header">`, `<div id="header">`, `<div class="head">` ou simplemente `<div>`. Hai moitas maneiras de crear un elemento de cabeceira e todas dependen das preferencias persoais do programador. Ao crear un elemento semántico estándar, facilítase as cousas para todos.
+
+Desde outubro de 2014, HTML4 actualizouse a HTML5, xunto con algúns elementos "semánticos" novos. Ata o día de hoxe, algúns de nós aínda podemos estar confusos sobre o porqué de tantos elementos diferentes que non parecen mostrar ningún cambio importante.
+
+#### `<section>` e `<article>`
+
+«Cal é a diferenza?», pode que te preguntes. Ambos elementos úsanse para seccionar un contido e, si, definitivamente pódense usar indistintamente. É cuestión de en que situación. HTML4 só ofrecía un tipo de elemento contedor, que era `<div>`. Aínda que isto aínda se usa en HTML5, HTML5 proporcionounos `<section>` e , `<article>` dalgún xeito, para substituír `<div>`.
+
+Os elementos `<section>` e `<article>` son conceptualmente similares e intercambiables. Para decidir cal destes debes escoller, ten en conta o seguinte:
+
+1. Un artigo está pensado para ser distribuíbel ou reutilizable de forma independente.
+2. Unha sección é unha agrupación temática de contidos.
+
+```html
+<section>
+  <p>Top Stories</p>
+  <section>
+    <p>News</p>
+    <article>Story 1</article>
+    <article>Story 2</article>
+    <article>Story 3</article>
+  </section>
+  <section>
+    <p>Sport</p>
+    <article>Story 1</article>
+    <article>Story 2</article>
+    <article>Story 3</article>
+  </section>
+</section>
+```
+
+#### `<header>` e `<hgroup>`
+
+O elemento `<header>` atópase xeralmente na parte superior dun documento, unha sección ou un artigo e adoita conter o título principal e algunhas ferramentas de navegación e busca.
+
+```html
+<header>
+  <h1>Company A</h1>
+  <ul>
+    <li><a href="/home">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/contact">Contact us</a></li>
+  </ul>
+  <form target="/search">
+    <input name="q" type="search" />
+    <input type="submit" />
+  </form>
+</header>
+```
+
+O elemento `<hgroup>` debería usarse onde se queira un título principal con un ou máis subtítulos.
+
+```html
+<hgroup>
+  <h1>Heading 1</h1>
+  <h2>Subheading 1</h2>
+  <h2>Subheading 2</h2>
+</hgroup>
+```
+
+LEMBRA que o elemento `<header>` pode conter calquera contido, pero `<hgroup>` só pode conter outras cabeceiras, é dicir, `<h1>` ata `<h6>` e incluíndo `<hgroup>`.
+
+#### **`<aside>`**
+
+O elemento `<aside>` está pensado para contido que non forma parte do fluxo do texto no que aparece, pero que aínda está relacionado dalgún xeito. Isto funciona como unha barra lateral, `<aside>`, do teu contido principal.
+
+```html
+<aside>
+  <p>This is a sidebar, for example a terminology definition or a short background to a historical figure.</p>
+</aside>
+```
+
+Antes de HTML5, os nosos menús creábanse con `<ul>`'s e `<li>`'s. Agora, xunto con estes, podemos separar os elementos do menú cun `<nav>`, para a navegación entre as páxinas. Podes ter calquera número de elementos `<nav>` nunha páxina; por exemplo, é común ter navegación global na parte superior (no `<header>`) e navegación local nunha barra lateral (nun elemento `<aside>`).
+
+```html
+<nav>
+  <ul>
+    <li><a href="/home">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/contact">Contact us</a></li>
+  </ul>
+</nav>
+```
+
+#### **`<footer>`**
+
+Se hai un `<header>` debe haber un `<footer>`. Un `<footer>` xeralmente atópase ao final dun documento, unha sección ou un artigo. Do mesmo xeito que o , `<header>` o contido adoita ser metainformación, como detalles do autor, información legal e/ou ligazóns a información relacionada. Tamén é válido incluír elementos `<section>` dentro dun pé de páxina.
+
+```html
+<footer>&copy;Company A</footer>
+```
+
+#### `<small>`
+
+O elemento `<small>` adoita aparecer dentro dun elemento `<footer>` ou `<aside>` que normalmente contería información sobre dereitos de autor ou exencións de responsabilidade legais e outras letras pequenas semellantes. Non obstante, isto non pretende facer o texto máis pequeno. Simplemente describe o seu contido, non prescribe a presentación.
+
+```html
+<footer><small>&copy;Company A</small> Date</footer>
+```
+
+#### `<time>`
+
+O elemento `<time>` permite anexar unha data inequívoca segundo a norma ISO8601 a unha versión lexible por humanos desa data.
+
+```html
+<time datetime="2017-10-31T11:21:00+02:00">Tuesday, 31 October 2017</time>
+```
+
+Para que molestarse con iso `<time>`? Mentres que os humanos poden ler a hora que pode desambiguar a través do contexto do xeito normal, os ordenadores poden ler a data ISO8601 e ver a data, a hora e o fuso horario.
+
+#### `<figure>` e `<figcaption>`
+
+`<figure>` é para envolver o contido da imaxe arredor dela e `<figcaption>` para subtitular a imaxe.
+
+```html
+<figure>
+  <img src="https://en.wikipedia.org/wiki/File:Shadow_of_Mordor_cover_art.jpg" alt="Shadow of Mordor" />
+  <figcaption>Cover art for Middle-earth: Shadow of Mordor</figcaption>
+</figure>
+```
+
+********
+
 
 ## Consellos e boas prácticas de HTML semántico
 
@@ -153,6 +319,11 @@ O uso das etiquetas HTML no lado esquerdo é incorrecto porque indica que a páx
 
 No lado dereito, temos unha páxina correctamente construída usando HTML semántico. Aínda que hai catro seccións separadas no deseño visual da páxina, as etiquetas HTML están aniñadas segundo a semántica do contido.
 
+### **Máis información sobre os novos elementos HTML5:**
+
+- [w3schools](https://www.w3schools.com/html/html5_semantic_elements.asp) ofrece descricións sinxelas e claras de moitos dos elementos das noticias e de como/onde se deben usar.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) tamén ofrece unha excelente referencia para todos os elementos HTML e afonda en cada un deles.
+
 ---
 
-*Tradución do artigo de [Vlado Pavlik](https://www.semrush.com/blog/user/202752481/) para [Semrush](https://www.semrush.com/blog/semantic-html5-guide/)*
+*Tradución do artigo de [Vlado Pavlik](https://www.semrush.com/blog/user/202752481/) para [Semrush](https://www.semrush.com/blog/semantic-html5-guide/) + notas do artigo [Semantic HTML5 elements](https://www.freecodecamp.org/news/semantic-html5-elements)*
