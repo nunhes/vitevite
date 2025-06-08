@@ -740,7 +740,7 @@ npm start
 
 A continuación, cree un compoñente de formulario:
 
-```react
+```js
 // ResponsiveForm.js
 import React, { useState } from 'react
 

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "MF0952_2"
+  name: "MF0952"
   text: "Publicación de páxinas web"
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
@@ -11,31 +11,31 @@ hero:
   actions:
     - theme: brand
       text: Seguridade na publicación i
-      link: /mf0952_2/01
+      link: /mf0952/01
     - theme: brand
       text: Seguridade na publicación ii
-      link: /mf0952_2/02
+      link: /mf0952/02
     - theme: brand
       text: Transferencia de arquivos
-      link: /mf0952_2/03
+      link: /mf0952/03
     - theme: brand
       text: Buscadores
-      link: /mf0952_2/04
+      link: /mf0952/04
     - theme: brand
       text: Publicación automatizada
-      link: /mf0952_2/05
+      link: /mf0952/05
     - theme: brand
       text: Ferramentas de depuración
-      link: /mf0952_2/06
+      link: /mf0952/06
     - theme: brand
       text: Navegadores
-      link: /mf0952_2/07 
+      link: /mf0952/07 
     - theme: alt
       text: Ferramentas de desenvolvemento
-      link: /mf0952_2/08
+      link: /mf0952/08
     - theme: alt
       text: Formulario seguro
-      link: /mf0952_2/09
+      link: /mf0952/09
 
 features:
   - icon: 📐

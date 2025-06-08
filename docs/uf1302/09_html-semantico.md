@@ -7,19 +7,18 @@ lastUpdated: true
 
 O HTML semántico, tamén coñecido como marcado semántico, fai referencia ao uso de [etiquetas HTML](https://www.semrush.com/blog/viewport-meta-tag/) que transmiten o significado —ou a semántica— do contido contido nelas.
 
-Ao engadir etiquetas HTML semánticas ás túas páxinas, proporcionas información adicional que axuda a definir os roles e a importancia relativa das diferentes partes da páxina.
+Ao engadir etiquetas HTML semánticas ás túas páxinas, proporcionas información adicional que axuda a definir os roles e a importancia relativa das diferentes partes da páxina. En oposición ao HTML non semánticoque usa etiquetas que non transmiten significado directamente.
 
-En oposición ao HTML non semántico, que usa etiquetas que non transmiten significado directamente.
 
-![Que é html semántico?](./assets/EN-Semantic-Search-Non-Semantic.png)
+![HTML semántico](./assets/EN-Semantic-Search-Non-Semantic.png)
 
 ***Nota:** HTML é unha linguaxe que se usa para estruturar un sitio web. Esta guía supón unha comprensión básica de HTML. Se es un principiante total, consultar unha [guía de introdución HTML](https://www.w3schools.com/html/html_intro.asp) será útil.*
 
 A HTML creouse orixinalmente como unha linguaxe de marcado para describir documentos. A medida que Internet medraba e era adoptada por máis xente, as súas necesidades mudaban. Aínda que Internet estaba pensado orixinalmente para compartir documentos científicos, agora a xente tamén quería compartir outras cousas.
 
-Dado que a web non foi construída inicialmente para ser deseñada, os programadores empregaron diferentes trucos para organizar as cousas de diferentes xeitos. En lugar de usar o <table></table>para describir a información mediante unha táboa, os programadores usábano para posicionar outros elementos nunha páxina.
+Dado que a web non foi construída inicialmente para ser deseñada, os programadores empregaron diferentes trucos para organizar as cousas de diferentes xeitos. En lugar de usar o ``<table></table>`` para describir a información mediante unha táboa, os programadores usábano para posicionar outros elementos nunha páxina.
 
-A medida que o uso de deseños visuais progresaba, os programadores comezaron a usar unha etiqueta xenérica "non semántica" como <div>. A miúdo daban a estes elementos un atributo classou idpara describir o seu propósito. Por exemplo: `<div class="header">`.
+A medida que o uso de deseños visuais progresaba, os programadores comezaron a usar unha etiqueta xenérica "non semántica" como ``<div>``. A miúdo daban a estes elementos un atributo classou idpara describir o seu propósito. Por exemplo: `<div class="header">`.
 
 ## Que son as etiquetas HTML semánticas?
 

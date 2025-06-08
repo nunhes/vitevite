@@ -56,7 +56,7 @@ export default defineConfig({
           { text: 'UF1304', link: '/uf1304/readme' },
           { text: 'UF1305', link: '/uf1305/readme' },
           { text: 'UF1306', link: '/uf1306/readme' },
-          { text: 'MF0952_2', link: '/mf0952_2/readme' },
+          { text: 'MF0952', link: '/mf0952/readme' },
           // { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
