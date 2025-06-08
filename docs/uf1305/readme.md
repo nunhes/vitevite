@@ -82,7 +82,7 @@ hero:
       text: Outros eventos
       link: /uf1305/24
     - theme: brand
-      text: Buscae análise de scripts
+      text: Busca e análise de scripts
       link: /uf1305/25
 
 features:

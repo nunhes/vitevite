@@ -23,14 +23,14 @@ Cando un usuario introduce un enderezo web no navegador, ocorren varios procesos
 
 1. **Resolución DNS**: O nome de dominio (por exemplo, `example.com`) tradúcese nunha dirección IP mediante un servidor DNS.
 2. **Establecemento de conexión**: O navegador envía unha solicitude ao servidor correspondente, establecendo unha conexión TCP/IP.
-3. **Solicitude e resposta HTTP/HTTPS**: A solicitude HTTP (ou HTTPS, que é segura) viaxa ao servidor, que responde enviando os ficheiros necesarios (HTML, CSS, JavaScript, imaxes...).
+3. **Solicitude e resposta HTTP/HTTPS**: A solicitude HTTP (ou HTTPS, que é segura) viaxa ao servidor, que responde enviando os arquivos necesarios (HTML, CSS, JavaScript, imaxes...).
 4. **Procesamento no cliente**: O navegador interpreta o código recibido e renderiza a páxina na pantalla.
 
 ## 3. Condicionantes para o desenvolvemento e deseño web
 
 O funcionamento de Internet inflúe directamente no traballo dun deseñador e desenvolvedor web en varios aspectos:
 
-- **Optimización do rendemento**: Como os datos viaxan en paquetes, un sitio web mal optimizado pode tardar máis en cargarse. Isto implica empregar técnicas como a minificación de ficheiros, a caché ou a carga diferida de imaxes.
+- **Optimización do rendemento**: Como os datos viaxan en paquetes, un sitio web mal optimizado pode tardar máis en cargarse. Isto implica empregar técnicas como a minificación de arquivos, a caché ou a carga diferida de imaxes.
 - **Seguridade**: Como Internet é unha rede aberta, a seguridade é clave. O uso de HTTPS, políticas de seguridade de contidos (CSP) e prácticas como a validación do lado do servidor son fundamentais.
 - **Compatibilidade e accesibilidade**: Como os usuarios poden acceder desde diferentes dispositivos e conexións, o deseño web debe ser responsivo e accesible, garantindo unha boa experiencia para todos.
 - **SEO e indexación**: Para que un sitio web sexa atopado, debe estar optimizado para motores de busca, o que require coñecer como os bots de Google percorren e indexan a web.

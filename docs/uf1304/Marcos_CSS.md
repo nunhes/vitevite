@@ -85,13 +85,13 @@ Bootstrap ten un gran soporte comunitario e máis de cen mil estrelas de GitHub.
 
 ### Como usar Bootstrap
 
-Para comezar con Bootstrap, cómpre incorporar os seus ficheiros fonte ao proxecto. Nun marco de JavaScript como React, podes instalar Bootstrap no teu proxecto usando un xestor de paquetes como npm.
+Para comezar con Bootstrap, cómpre incorporar os seus arquivos fonte ao proxecto. Nun marco de JavaScript como React, podes instalar Bootstrap no teu proxecto usando un xestor de paquetes como npm.
 
 ```bash
 npm install bootstrap
 ```
 
-A continuación, importe o CSS de Bootstrap na parte superior do ficheiro de entrada principal da aplicación, normalmente `src/index.js`:
+A continuación, importe o CSS de Bootstrap na parte superior do arquivo de entrada principal da aplicación, normalmente `src/index.js`:
 
 ```javascript
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -117,7 +117,7 @@ Para obter máis información sobre Bootstrap, consulte a [documentación oficia
 
 ## Tailwind CSS
 
-[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) é un framework CSS de utilidade que che permite construír rapidamente interfaces de usuario personalizadas directamente en ficheiros de marcado.
+[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) é un framework CSS de utilidade que che permite construír rapidamente interfaces de usuario personalizadas directamente en arquivos de marcado.
 
 Como un marco de utilidade en primeiro lugar, Tailwind abstrae das restricións dun marco baseado en compoñentes, por exemplo, Bootstrap.
 
@@ -131,14 +131,14 @@ Tailwind ofrece un sistema robusto de clases de utilidade e axudantes como bloqu
 
 ### Como usar Tailwind CSS
 
-Instala `tailwindcss`a través dun xestor de paquetes e crea o teu `tailwind.config.js`ficheiro para configurar e personalizar Tailwind CSS para a túa aplicación.
+Instala `tailwindcss`a través dun xestor de paquetes e crea o teu `tailwind.config.js`arquivo para configurar e personalizar Tailwind CSS para a túa aplicación.
 
 ```bash
 npm install -D tailwindcss
 npx tailwindcss init
 ```
 
-Engade os camiños a todos os teus ficheiros de modelos e marcas no teu `tailwind.config.js`ficheiro, así como a outras configuracións.
+Engade os camiños a todos os teus arquivos de modelos e marcas no teu `tailwind.config.js`arquivo, así como a outras configuracións.
 
 ```javascript
 /** @type {import('tailwindcss').Config} */
@@ -151,7 +151,7 @@ module.exports = {
 }
 ```
 
-Engade as `@tailwind`directivas para cada unha das capas de Tailwind ao teu ficheiro CSS principal e asegúrate de importar o ficheiro CSS ao ficheiro de entrada principal da túa aplicación.
+Engade as `@tailwind`directivas para cada unha das capas de Tailwind ao teu arquivo CSS principal e asegúrate de importar o arquivo CSS ao arquivo de entrada principal da túa aplicación.
 
 ```css
 @tailwind base;
@@ -207,7 +207,7 @@ Consulta [a documentación da IU do material](https://mui.com/) para obter pauta
 
 ## Styled Components
 
-[styled-components](https://styled-components.com/) é unha das bibliotecas CSS-in-JS máis destacadas. Ofrece un xeito sinxelo de crear e xestionar estilos CSS dentro de ficheiros e compoñentes JavaScript.
+[styled-components](https://styled-components.com/) é unha das bibliotecas CSS-in-JS máis destacadas. Ofrece un xeito sinxelo de crear e xestionar estilos CSS dentro de arquivos e compoñentes JavaScript.
 
 Aínda que orixinalmente foi deseñado específicamente para o ecosistema React, os compoñentes con estilo avanzaron para que agora poidas usalo con JavaScript vainilla ou outros frameworks JavaScript como Vue.
 
@@ -399,7 +399,7 @@ A continuación, importa os estilos CSS de Bulma na folla de estilo principal do
 
 Agora xa estás preparado para comezar a diseñar o teu proxecto usando as clases e compoñentes de Bulma.
 
-Podes obter máis información sobre a personalización dos estilos de Bulma, a substitución de variables CSS ou a modificación dos ficheiros fonte de Sass desde [a documentación oficial](https://bulma.io/documentation/) .
+Podes obter máis información sobre a personalización dos estilos de Bulma, a substitución de variables CSS ou a modificación dos arquivos fonte de Sass desde [a documentación oficial](https://bulma.io/documentation/) .
 
 ## Pure CSS
 

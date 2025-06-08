@@ -229,13 +229,13 @@ Se buscas alternativas a Figma para deseño de UI/UX e prototipado, hai varias o
 
 ### **Cal elixir segundo as túas necesidades?**
 
-| Ferramenta | Plataforma            | Colaboración en tempo real | Código aberto | Ideal para                                                   |
-| ---------- | --------------------- | -------------------------- | ------------- | ------------------------------------------------------------ |
-| **Sketch** | macOS                 | ✅ (limitada)               | ❌             | Profesionais de macOS que prefiren compra única.             |
-| **Penpot** | Web (multiplataforma) | ✅                          | ✅             | Equipos que buscan unha alternativa libre e autoaloxable.    |
-| **UXPin**  | Web (multiplataforma) | ✅                          | ❌             | Prototipado con interaccións avanzadas.                      |
+| Ferramenta | Plataforma            | Colaboración en tempo real | Código aberto | Ideal para                                                     |
+| ---------- | --------------------- | -------------------------- | ------------- | -------------------------------------------------------------- |
+| **Sketch** | macOS                 | ✅ (limitada)               | ❌             | Profesionais de macOS que prefiren compra única.               |
+| **Penpot** | Web (multiplataforma) | ✅                          | ✅             | Equipos que buscan unha alternativa libre e autoaloxable.      |
+| **UXPin**  | Web (multiplataforma) | ✅                          | ❌             | Prototipado con interaccións avanzadas.                        |
 | **Framer** | Web (multiplataforma) | ✅                          | ❌             | Deseñadores que buscan animacións e compatibilidade con React. |
-| **Lunacy** | Windows, macOS, Linux | ❌                          | ❌             | Deseño UI con soporte para Sketch e ferramentas de IA.       |
+| **Lunacy** | Windows, macOS, Linux | ❌                          | ❌             | Deseño UI con soporte para Sketch e ferramentas de IA.         |
 
 ### Alternativas open source
 
@@ -316,7 +316,7 @@ Se buscas ferramentas de código aberto para substituír Adobe Photoshop, Illust
 
 - Potente e gratuíto, con moitas opcións de edición.
 - Personalizable mediante complementos e scripts.
-- Compatible con moitos formatos de ficheiro.
+- Compatible con moitos formatos de arquivo.
 
 **Desvantaxes:**
 

@@ -987,7 +987,7 @@ A optimización do rendemento dos teus formularios sensibles garante que se carg
 
 ### Minificación e compresión de recursos
 
-[Minimizar os teus ficheiros CSS, JavaScript e HTML](https://blog.pixelfreestudio.com/how-to-minify-css-javascript-and-html-for-speed/) pode reducir significativamente o seu tamaño, o que leva a tempos de carga máis rápidos. Ferramentas como UglifyJS para JavaScript, CSSNano para CSS e HTMLMinifier para HTML poden automatizar este proceso.
+[Minimizar os teus arquivos CSS, JavaScript e HTML](https://blog.pixelfreestudio.com/how-to-minify-css-javascript-and-html-for-speed/) pode reducir significativamente o seu tamaño, o que leva a tempos de carga máis rápidos. Ferramentas como UglifyJS para JavaScript, CSSNano para CSS e HTMLMinifier para HTML poden automatizar este proceso.
 
 ### Implementación de Lazy Loading
 
@@ -1028,7 +1028,7 @@ CSS e JavaScript eficientes melloran o rendemento. Use CSS para animacións e tr
 
 ### Redución de solicitudes HTTP
 
-Reducir o número de solicitudes HTTP que fai o teu formulario pode mellorar significativamente o rendemento. Isto pódese conseguir combinando varios ficheiros CSS e JavaScript en ficheiros únicos e usando imaxes en liña para iconas pequenas.
+Reducir o número de solicitudes HTTP que fai o teu formulario pode mellorar significativamente o rendemento. Isto pódese conseguir combinando varios arquivos CSS e JavaScript en arquivos únicos e usando imaxes en liña para iconas pequenas.
 
 ### Estratexias de caché
 

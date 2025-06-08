@@ -16,21 +16,26 @@ hero:
       text: Seguridade na publicación ii
       link: /mf0952_2/02
     - theme: brand
-      text: Validación de datos iii
+      text: Transferencia de arquivos
       link: /mf0952_2/03
     - theme: brand
-      text: Xestión de formularios
+      text: Buscadores
       link: /mf0952_2/04
     - theme: brand
-      text: Exemplo AJAX
+      text: Publicación automatizada
       link: /mf0952_2/05
     - theme: brand
-      text: Validación back-end
+      text: Ferramentas de depuración
       link: /mf0952_2/06
     - theme: brand
-      text: Animacións e transicións CSS
-      link: /mf0952_2/07
-    - theme: brand
+      text: Navegadores
+      link: /mf0952_2/07 
+    - theme: alt
+      text: Ferramentas de desenvolvemento
+      link: /mf0952_2/08
+    - theme: alt
+      text: Formulario seguro
+      link: /mf0952_2/09
 
 features:
   - icon: 📐

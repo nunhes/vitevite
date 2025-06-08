@@ -59,7 +59,7 @@ Comprender os diferentes tipos de redes é fundamental para os desenvolvedores d
 - **WAN (Wide Area Network):** Abarca unha gran área xeográfica e a miúdo conecta varias LAN.
 - **MAN (Metropolitan Area Network):** conecta varias redes de área local dentro dunha cidade ou campus específico, permitindo comunicacións de alta velocidade nunha ampla área xeográfica.
 - **CAN (Campus Area Network):** conecta redes de área local dentro dunha área xeográfica específica, permitindo unha comunicación eficiente e compartir recursos.
-- **HAN (Home Area Network):** conecta dispositivos dixitais dentro dunha casa, permitindo a comunicación e compartir recursos como acceso a Internet, impresoras e ficheiros multimedia entre varios dispositivos.
+- **HAN (Home Area Network):** conecta dispositivos dixitais dentro dunha casa, permitindo a comunicación e compartir recursos como acceso a Internet, impresoras e arquivos multimedia entre varios dispositivos.
 - **Internet:** unha rede global que conecta millóns de dispositivos en todo o mundo.
 - **Intranet:** rede privada dentro dunha organización, accesible só para usuarios autorizados.
 
