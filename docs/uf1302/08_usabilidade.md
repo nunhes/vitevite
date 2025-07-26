@@ -243,3 +243,8 @@ No caso dos produtos web, o ciclo adoita ser máis dinámico, coa posibilidade d
 
 - [NNGroup: Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [W3C Accessibility Standards](https://www.w3.org/standards/webdesign/accessibility)
+
+
+---
+
+DAW🧊2025

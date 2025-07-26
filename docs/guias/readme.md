@@ -6,9 +6,8 @@ hero:
   name: Guías
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:
-
 
 features:
   - icon: 📐
@@ -32,3 +31,8 @@ features:
 ---
 Como deseñador|desenvolvedor web, é necesario saber como funciona a web, e dominar as linguaxes de marcado e guión esenciais.   
 Nesta sección atoparás guías básicas de iniciación as linguaxes de marcado Markdown e HTML, a linguaxe de estilo CSS, e a linguaxe de guión JavaScript. Todas eles esenciais para o desenvolvemento web.
+
+
+---
+
+DAW🧊2025

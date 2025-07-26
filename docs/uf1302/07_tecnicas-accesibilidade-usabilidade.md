@@ -54,3 +54,8 @@ Un sitio web usable debe ter unha estrutura clara, un deseño atractivo e ser ad
 ---
 
 Con estes conceptos e recursos, estarás preparado para crear sitios web que non só sexan visualmente atractivos, senón tamén accesibles e usables para todos os usuarios. Explorar e aplicar estas técnicas é un paso esencial para converterse nun desenvolvedor web competente e responsable.
+
+
+---
+
+DAW🧊2025

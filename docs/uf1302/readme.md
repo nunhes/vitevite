@@ -7,7 +7,7 @@ hero:
   text: "Creación de páxinas web con linguaxe de marcas"
   image:
     src: /html5.svg
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:
     - theme: brand
       text: Linguaxes de marcas
@@ -72,3 +72,8 @@ Aquí atoparás lecturas complementarias as sesións lectivas e [prácticas](htt
     - [https://codepen.io/](https://codepen.io/)
     - [https://caniuse.com/](https://caniuse.com/)
     - [https://excalidraw.com/](https://excalidraw.com/)
+
+    
+---
+
+DAW🧊2025

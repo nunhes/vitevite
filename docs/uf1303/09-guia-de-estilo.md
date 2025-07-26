@@ -312,3 +312,8 @@ Exemplos de guías de estilo:
 - [Apple](https://developer.apple.com/design/human-interface-guidelines/)
 - [UPV](http://www.upv.es/entidades/ASIC/manuales/guia_estilos_upv.pdf)
 - [50 guías de estilo](https://www.canva.com/es_mx/aprende/50-guias-estilo-que-debes-ver-antes-lanzar-tu-startup/)
+
+
+---
+
+DAW🧊2025

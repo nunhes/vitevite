@@ -729,3 +729,9 @@ __
 
 - Ferramentas:
   - <https://scout-app.io/>   Preprocesador GUI
+
+
+
+---
+
+DAW🧊2025

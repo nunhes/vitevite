@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "DAW 2025"
+  name: "DAW🧊2025"
   text: "Confección e publicación de páxinas web "
   # tagline: My great project tagline
   image:
     src: /Brick_Magenta.png
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:  
     - theme: alt
       text: Básicos

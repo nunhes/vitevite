@@ -256,3 +256,8 @@ Dependendo do tipo de marcas que utilicemos, as linguaxes de marcas pódense div
 ##### NOTAS:^
 
 [1]: e.g.,  “exempli gratia”, “por exemplo”
+
+
+---
+
+DAW🧊2025

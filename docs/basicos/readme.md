@@ -6,7 +6,7 @@ hero:
   name: "Básicos"
   image:
     src: /web-ui-svgrepo-com.svg
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:
     - theme: alt
       text: Como funciona Internet
@@ -52,3 +52,8 @@ features:
 ---
 
 Coñecer como funciona Internet, saber cales son os principios do deseño web a aplicar, probar ferramentas de prototipado, conceptualización e deseño, coñecer a fondo o teu sitema de desenvolvemento, ...son as cousas que deberías ir aprendendo mentres medras como *web designer* ou *web developer*.
+
+
+---
+
+DAW🧊2025

@@ -58,3 +58,8 @@ HTML5 foi desenvolvido para mellorar as capacidades de HTML na web moderna, perm
 ------
 
 A evolución de HTML e XHTML reflicte un cambio importante na web, de ser un sistema de marcado sinxelo e estático a converterse nunha plataforma dinámica, interactiva e accesible para todos os usuarios. O futuro de HTML5 segue sendo prometedor, con novas funcionalidades previstas para os próximos anos, mantendo a web como un medio flexible e poderoso para todos os desenvolvedores e usuarios.
+
+
+---
+
+DAW🧊2025

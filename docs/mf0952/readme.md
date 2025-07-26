@@ -7,7 +7,7 @@ hero:
   text: "Publicación de páxinas web"
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:
     - theme: brand
       text: Seguridade na publicación i
@@ -57,3 +57,8 @@ features:
 ---
 
 Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de desenvolvemento web que estás a realizar. 
+
+
+---
+
+DAW🧊2025

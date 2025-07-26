@@ -11,8 +11,10 @@ export default defineConfig({
     }
   },
   lang: 'gl',
-  title: "DAW 2025",
+  title: "DAW🧊2025",
   description: "Confección e publicación de páxinas web ",
+
+
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico', sizes: '48x48' }],
     ['link', { rel: 'icon', href: '/favicon.svg', sizes: 'any', type: 'image/svg+xml' }],
@@ -26,7 +28,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon.svg',
-    siteTitle: 'DAW 2025',
+    siteTitle: 'DAW🧊2025',
     nav: [
       { text: 'Home', link: 'https://bitsolto.com/daw2025/' },
       // { text: 'Examples', link: '/markdown-examples' }
@@ -76,8 +78,8 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: 'i.berndz.',
-      copyright: '© 2019-present'
+      message: 'DAW🧊2025',
+      copyright: 'i.berndz © 2019-present'
     },
     externalLinkIcon: true,
     outlineTitle: 'Nesta paxina'

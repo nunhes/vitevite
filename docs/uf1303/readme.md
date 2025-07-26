@@ -7,7 +7,7 @@ hero:
   text: "Elaboración de follas de estilo"
   image:
     src: /css3-svgrepo-com.svg
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:
     - theme: brand
       text: CSS 101
@@ -58,3 +58,8 @@ Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de 
     - [https://codepen.io/](https://codepen.io/)
     - [https://caniuse.com/](https://caniuse.com/)
     - [https://excalidraw.com/](https://excalidraw.com/)
+
+    
+---
+
+DAW🧊2025

@@ -233,3 +233,8 @@ Desprázate por un par de páxinas utilizando un lector de pantalla. Abre un sit
 
 _\_ref:_
 - [Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/)
+
+
+---
+
+DAW🧊2025

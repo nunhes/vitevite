@@ -7,7 +7,7 @@ hero:
   text: "Elaboración de plantillas e formularios"
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW 2025
+    alt: DAW🧊2025
   actions:
     - theme: brand
       text: Depurar CSS
@@ -59,3 +59,9 @@ Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de 
     - [https://codepen.io/](https://codepen.io/)
     - [https://caniuse.com/](https://caniuse.com/)
     - [https://codi.link/](https://codi.link/)
+
+
+
+---
+
+DAW🧊2025

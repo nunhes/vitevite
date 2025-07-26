@@ -81,6 +81,7 @@ Aprender a programar implica cambiar **como pensamos e resolvemos problemas**. E
 
 Así que lembra, **programar cambia a nosa forma de pensar e desenvolver solucións**, incluso fóra da informática. 🚀😊
 
+
 ---
 
-ABR 2025
+DAW🧊2025

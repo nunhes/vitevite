@@ -236,4 +236,9 @@ HTML permite inserir imaxes, vídeos e audio: 🔹 **Imaxe**
 
 ## **Conclusión**
 
-HTML baséase en etiquetas, atributos e elementos estruturais que permiten organizar o contido dunha páxina web. Comprender a súa sintaxe é fundamental para o desenvolvemento web. Se tes dúbidas ou queres exemplos máis avanzados, avísame! 😊
+HTML baséase en etiquetas, atributos e elementos estruturais que permiten organizar o contido dunha páxina web. Comprender a súa sintaxe é fundamental para o desenvolvemento web. 😊
+
+
+---
+
+DAW🧊2025

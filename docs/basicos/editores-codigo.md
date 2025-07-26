@@ -276,3 +276,7 @@ Debes escoller un editor de código que se adapte ao teu ambiente de desenvolvem
 A lista de editores de código é interminable e aumenta sobre todo agora que se comezan a ver alternativas que integran sistemas de IA para amplificar os fluxos de traballo.
 
 Seguir atentos á web!
+
+---
+
+DAW🧊2025

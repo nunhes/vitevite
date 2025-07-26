@@ -7,7 +7,7 @@ lastUpdated: true
 
 > Unha linguaxe de marcas é un sistema de codificación que utiliza etiquetas e marcadores para definir a estrutura e o formato dun documento. As linguaxes de marcas usan instrucións específicas para que os ordenadores poidan comprender e representar a información de forma coherente.
 
-# **As linguaxes de marcas: Introdución, historia, usos e aplicacións**
+## **As linguaxes de marcas: Introdución, historia, usos e aplicacións**
 
 As linguaxes son ferramentas esenciais no ámbito da tecnoloxía e da informática. Nos sistemas informáticos as linguaxes pódense dividir en dous tipos: as que se empregan para crear aplicacións, coñecidos somo linguaxes de programación; e, os que serven para marcar documentos, coñecidos como linguaxes de marcado ou de marcas.
 
@@ -17,13 +17,13 @@ Neste artigo, exploraremos que son as linguaxes de marcado, a súa historia, apl
 
 ------
 
-## **Que son as linguaxes de marcas?**
+### **Que son as linguaxes de marcas?**
 
 Unha linguaxe de marcado é un conxunto de regras e etiquetas (chamadas marcas ou *tags*) que se empregan para definir a estrutura e o significado do contido e permiten identificar datos nun documento. En lugar de ser programas executables, como outras linguaxes de programación, as linguaxes de marcado funcionan como formatos que describen datos. E o elemento clave para resolver esa tarefa son as etiquetas - ou marcas, de aí o seu nome-.
 
 As etiquetas están delimitadas por corchetes angulares, como `<etiqueta>`, e axudan a identificar elementos como títulos, parágrafos, listas, ligazóns, imaxes, e moito máis. Outros elementos clave das linguaxes de marcado son a súa estrutura aniñada e/ou xerárquica, e os atributos - marcas que completan o significado ou a funcionalidade dunha determinada etiqueta-.  
 
-### **Elementos comúns nunha linguaxe de marcado**:
+#### **Elementos comúns nunha linguaxe de marcado**:
 
 1. **Marcas (tags)**: Usadas para definir o significado ou propósito dunha sección de datos - normalmente texto-.
    Exemplo: `<h1>` para encabezados en HTML.
@@ -33,7 +33,7 @@ As etiquetas están delimitadas por corchetes angulares, como `<etiqueta>`, e ax
 
 ------
 
-## **Un pouco de historia**
+### **Un pouco de historia**
 
 A finais dos anos 60, do século XX, a empresa IBM propúxose a creación dun sistema estándar para a xestión e a edición de documentos, dado que se deron conta de que moitos dos seus sistemas informáticos non podían comunicarse entre eles debido a distinto sistema de descrición que empregaban.
 
@@ -52,7 +52,7 @@ Algúns dos fitos clave deste desenvolvemento das linguaxes de marcado son:
 
 ------
 
-## **Usos e aplicacións das linguaxes de marcas**
+### **Usos e aplicacións das linguaxes de marcas**
 
 As linguaxes de marcado teñen unha ampla variedade de aplicacións, desde a creación de páxinas web ata a xestión de datos e o intercambio de información en sistemas complexos. Algúns exemplos inclúen: 
 
@@ -174,7 +174,7 @@ As linguaxes de marcado teñen unha ampla variedade de aplicacións, desde a cre
 
 ------
 
-## **Como se usan as linguaxes de marcas e onde?**
+### **Como se usan as linguaxes de marcas e onde?**
 
 As linguaxes de marcado úsanse en contornos moi variados e depende do contexto e do propósito:
 
@@ -188,7 +188,7 @@ As linguaxes de marcado úsanse en contornos moi variados e depende do contexto 
 
 ------
 
-## **Recursos e ligazóns de interese**
+### **Recursos e ligazóns de interese**
 
 Para profundizar no tema, aquí tes algúns recursos útiles:
 
@@ -200,7 +200,7 @@ Para profundizar no tema, aquí tes algúns recursos útiles:
 
 ------
 
-## **Resumo**
+### **Resumo**
 
 As linguaxes de marcado son ferramentas fundamentais na era dixital, utilizadas para estruturar e transmitir información de forma clara e eficiente. Coñecer e empregar estas linguaxes abre as portas a múltiples posibilidades, desde o desenvolvemento web ata a xestión de datos e a creación de documentos técnicos. A medida que a tecnoloxía avanza, seguir aprendendo sobre estas linguaxes permitirá aproveitar mellor o potencial da información estruturada.
 
@@ -215,3 +215,7 @@ As linguaxes de marcado son ferramentas fundamentais na era dixital, utilizadas 
 
 #linguaxe de marcas #devweb 
 
+
+---
+
+DAW🧊2025

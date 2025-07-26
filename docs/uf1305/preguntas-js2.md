@@ -833,3 +833,8 @@ Vou completar a **Sección 5: Resolución de Erros** con **10 preguntas** práct
 - Proporcionar feedback con explicacións detalladas trás cada resposta.  
 
 Esta sección desafía aos alumnos a identificar e corrixir erros comúns, reforzando a comprensión de conceptos críticos en JavaScript.
+
+
+---
+
+DAW🧊2025

@@ -411,4 +411,4 @@ Se buscas ferramentas de código aberto para substituír Adobe Photoshop, Illust
 
 ---
 
-DAW 2025
+DAW🧊2025
