@@ -6,6 +6,9 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   base: '/daw2025/',
   vite: {
+    optimizeDeps: {
+      exclude: ['@vue/devtools-api', '@vueuse/core']
+    },
     resolve: {
       preserveSymlinks: true
     }
