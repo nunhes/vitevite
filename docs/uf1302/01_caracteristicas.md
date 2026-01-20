@@ -253,7 +253,8 @@ Dependendo do tipo de marcas que utilicemos, as linguaxes de marcas pódense div
 4. **Híbridas**: Combinan estrutura e presentación pero tamén control visual. (Markdown)
 
 ---
-##### NOTAS:^
+
+#### NOTAS:
 
 [1]: e.g.,  “exempli gratia”, “por exemplo”
 

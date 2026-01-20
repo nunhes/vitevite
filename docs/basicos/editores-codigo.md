@@ -238,18 +238,18 @@ Phoenix Code é un editor de texto deseñado para facer a codificación tan intu
 
 **Pros de Phoenix Code**
 
- ✅ **Vista previa en tempo real** → Ideal para aprender HTML e CSS con cambios instantáneos.
- ✅ **Interfaz sinxela e intuitiva** → Axeitado para principiantes no desenvolvemento web.
- ✅ **Compatible con múltiples plataformas** → Windows, macOS, Linux e versión web.
- ✅ **Extensible con complementos** → Personalización e automatización de tarefas.
- ✅ **Lixeiro e rápido** → Non require moitos recursos para funcionar de maneira eficiente.
+ ✅ **Vista previa en tempo real** → Ideal para aprender HTML e CSS con cambios instantáneos.  
+ ✅ **Interfaz sinxela e intuitiva** → Axeitado para principiantes no desenvolvemento web.  
+ ✅ **Compatible con múltiples plataformas** → Windows, macOS, Linux e versión web.  
+ ✅ **Extensible con complementos** → Personalización e automatización de tarefas.   
+ ✅ **Lixeiro e rápido** → Non require moitos recursos para funcionar de maneira eficiente.  
 
 **Contras de Phoenix Code**
 
- ❌ **Menos extensións ca outros editores** → Non ten a mesma variedade que VS Code ou JetBrains.
- ❌ **Foco en web, menos soporte para outras tecnoloxías** → Menos axeitado para linguaxes de backend ou proxectos complexos.
- ❌ **Menos popularidade e comunidade pequena** → Pode ser difícil atopar axuda en comparación con outras opcións máis establecidas.
- ❌ **Non substitúe un IDE completo** → Útil para aprender e proxectos pequenos, pero limitado para desenvolvemento avanzado.
+ ❌ **Menos extensións ca outros editores** → Non ten a mesma variedade que VS Code ou JetBrains.  
+ ❌ **Foco en web, menos soporte para outras tecnoloxías** → Menos axeitado para linguaxes de backend ou proxectos complexos.  
+ ❌ **Menos popularidade e comunidade pequena** → Pode ser difícil atopar axuda en comparación con outras opcións máis establecidas.  
+ ❌ **Non substitúe un IDE completo** → Útil para aprender e proxectos pequenos, pero limitado para desenvolvemento avanzado.  
 
 **Características principais:**
 
@@ -274,7 +274,7 @@ Debes escoller un editor de código que se adapte ao teu ambiente de desenvolvem
 
 ---
 
-A lista de editores de código é interminable e aumenta sobre todo agora que se comezan a ver alternativas que integran sistemas de IA para amplificar os fluxos de traballo.
+A lista de editores de código é interminable e aumenta sobre todo agora que se comezan a ver alternativas que integran sistemas de IA - [Coder](https://coder.com/), [Trae](https://www.trae.ai/), [Zed](https://zed.dev/), [Windsurf](https://windsurf.com/editor), [Antigravity](https://antigravity.google/),...- para amplificar os fluxos de traballo.
 
 Seguir atentos á web!
 

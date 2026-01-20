@@ -178,7 +178,7 @@ As linguaxes de marcado teñen unha ampla variedade de aplicacións, desde a cre
 
 As linguaxes de marcado úsanse en contornos moi variados e depende do contexto e do propósito:
 
-- **Creación de sitios web**: HTML é imprescindible para crear unha páxina web e definir a estrutura do sitio. Pódese crear con calquera editor de texto non enriquecido ou con editores de código especializados como [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Tex](https://www.sublimetext.com/)t.
+- **Creación de sitios web**: HTML é imprescindible para crear unha páxina web e definir a estrutura do sitio. Pódese crear con calquera editor de texto non enriquecido ou con editores de código especializados como [Visual Studio Code](https://code.visualstudio.com/) ou [Sublime Text](https://www.sublimetext.com/).
 - **Xestión de datos en aplicacións empresariais**: XML úsase para configuracións de software ou para intercambio de datos entre sistemas. Unha terefa que nos últimos anos tamén se pode completar con JSON. Tanto un coma outro, son comúns no intercambio de datos entre sistemas e plataformas, en parte debido a que ámbolos son compatibles con linguaxes de programación como Python, JavaScript ou Java.
 - **Edición de libros e artigos**: En publicacións científicas, LaTeX é popular debido á súa capacidade de manexar ecuacións matemáticas complexas.
 - **Documentación**: Markdown é ideal para escribir documentación técnica ou blogs. Moitas plataformas, como GitHub, admiten Markdown de forma nativa.
@@ -211,10 +211,10 @@ As linguaxes de marcado son ferramentas fundamentais na era dixital, utilizadas 
 - [Evolución das linguaxes de marcas](https://view.genially.com/6505d0a13079590011a0fbf7/interactive-content-lenguaje-de-marcas) + [2](https://view.genially.com/6506b74a7d706000117c2ad3/interactive-content-origen-y-evolucion-de-los-lenguajes-de-marcas) + [3](https://view.genially.com/650488f21e369200110e12cd/interactive-content-actividad-1-evol-lenguaje-de-marcas-david-dominguez)
 - [Linguaxes de marcas e sistemas de xestión da información](https://www.cartagena99.com/recursos/alumnos/apuntes/210927125007-DAM_M04_03_1909_QA03.pdf)
 
----
+<!--
 
 #linguaxe de marcas #devweb 
-
+-->
 
 ---
 

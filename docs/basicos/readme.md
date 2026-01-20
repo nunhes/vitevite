@@ -12,14 +12,17 @@ hero:
       text: Como funciona Internet
       link: /basicos/como_funciona_internet.md
     - theme: alt
+      text: Conceptos clave sobre redes
+      link: /basicos/conceptos-basicos-da-rede-desenvolvemento-fullstack
+    - theme: alt
       text: Principios de deseño web
       link: /basicos/principios_do_deseno_sitios_web
     - theme: alt
       text: Etapas clave do deseño web
       link: /basicos/etapas-clave-deseno-web
-    - theme: alt
-      text: Conceptos clave sobre redes
-      link: /basicos/conceptos-basicos-da-rede-desenvolvemento-fullstack
+    - theme: brand
+      text: As imaxes no deseño web
+      link: /basicos/as-imaxes-no-deseno-web
     - theme: alt
       text: Ferramentas de deseño
       link: /basicos/ferramentas-deseno-web
@@ -32,9 +35,6 @@ hero:
     - theme: brand
       text: Git, unha guía de inicio
       link: /basicos/unha-guia-de-inicio-Git
-    - theme: brand
-      text: As imaxes no deseño web
-      link: /basicos/as-imaxes-no-deseno-web
 
 features:
   - icon: 📐

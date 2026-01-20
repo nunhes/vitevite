@@ -9,7 +9,7 @@ Benvido/a ao deseño da experiencia de usuario (UX) en produtos web. Nesta lecci
 
 O **deseño da experiencia de usuario** (UX) céntrase en como as persoas interactúan coas interfaces para realizar tarefas específicas. Comprender o usuario e os seus obxectivos é clave para deseñar interfaces eficaces e satisfactorias.
 
-## Conceptos básicos de UX: Usuario e Interface
+## Conceptos básicos de UX: Usuario e interface
 
 O deseño de experiencia de usuario parte dunha idea central: **os usuarios interactúan con interfaces para realizar tarefas específicas**. Este principio guía todo o proceso de deseño, xa que **comprender ao usuario e a tarefa que quere realizar** é esencial para deseñar a mellor interface posible.
 
@@ -36,7 +36,7 @@ Un deseñador UX/UI debe coñecer a fondo as características dos usuarios - pub
 - a responsividade da interface que están creando e como esta se adaptará aos distintos dispositivos e xanelas gráficas; 
 - e garantir a accesibilidade do produto para aquelas persoas con calquera tipo de discapacidade visual ou motora.
 
-### Características dos Usuarios
+### Características dos usuarios
 
 A capacidade dun usuario para utilizar unha interface está influída por:
 
@@ -48,7 +48,7 @@ A capacidade dun usuario para utilizar unha interface está influída por:
 
 - [Accessibility Basics - W3C](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
-## O obxectivo do deseño de UX/UI. A Creación de Interfaces
+## O obxectivo do deseño de UX/UI. A creación de interfaces
 
 Deseñar implica crear ou modificar algo para que funcione mellor. No deseño web, isto significa desenvolver solucións novas ou mellorar interfaces existentes para alcanzar os obxectivos do usuario de forma eficiente e satisfactoria.
 

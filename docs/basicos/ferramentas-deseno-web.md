@@ -7,9 +7,7 @@ lastUpdated: true
 
 # {{ $frontmatter.title }}
 
-As ferramentas de deseño web xogan un papel fundamental no desenvolvemento web, xa que afectan directamente ao **fluxo de traballo**, á **colaboración entre equipos** e á **calidade da experiencia do usuario (UX/UI)**. Aquí explico como se integran no proceso de desenvolvemento e por que son ferramentas clave.
-
-------
+> As ferramentas de deseño web xogan un papel fundamental no desenvolvemento web, xa que afectan directamente ao **fluxo de traballo**, á **colaboración entre equipos** e á **calidade da experiencia do usuario (UX/UI)**. Vexamos como se integran no proceso de desenvolvemento e por que son ferramentas clave.
 
 ## 🔹 **O papel das ferramentas de deseño no desenvolvemento web**
 
@@ -22,15 +20,15 @@ Antes de escribir unha soa liña de código, é esencial ter unha visión clara 
 🔹 **Ferramentas clave:**
 
 - **Figma** / **Sketch**: Para deseñar interfaces e sistemas de deseño colaborativos.
-- **Adobe XD** / [**Justinmind**](https://www.justinmind.com/): Para crear prototipos interactivos.
+- ~~**Adobe XD**~~:skull: / [**Justinmind**](https://www.justinmind.com/): Para crear prototipos interactivos.
 - **Balsamiq**: Para wireframes de baixa fidelidade rápidos.
 
-**Como afectan ao desenvolvemento?**
- ✅ Permiten validar a estrutura antes de codificar.
- ✅ Facilitan a comunicación entre deseñadores, desenvolvedores e clientes.
- ✅ Axudan a evitar cambios tardíos e custosos no código.
+**Como afectan ao desenvolvemento?**  
+ ✅ Permiten validar a estrutura antes de codificar.  
+ ✅ Facilitan a comunicación entre deseñadores, desenvolvedores e clientes.  
+ ✅ Axudan a evitar cambios tardíos e custosos no código.  
 
-------
+---
 
 ### **2️⃣ Fase de deseño: UI/UX e creación de elementos visuais**
 
@@ -43,55 +41,55 @@ Nesta etapa créanse todos os elementos gráficos que conformarán a interface d
 - **Canva**: Para deseños rápidos sen coñecementos avanzados.
 - **[Affinity Studio](https://www.affinity.studio/)**: Unha ferramenta integral de tratamento gráfico -vertorial e mapa de bits, todo en un-. Gratuita.
 
-**Como afectan ao desenvolvemento?**
- ✅ Permiten crear unha identidade visual coherente.
- ✅ Reducen o uso de imaxes pesadas ao traballar con SVG optimizados.
- ✅ Axudan a garantir un bo contraste e lexibilidade.
+**Como afectan ao desenvolvemento?**  
+ ✅ Permiten crear unha identidade visual coherente.  
+ ✅ Reducen o uso de imaxes pesadas ao traballar con SVG optimizados.  
+ ✅ Axudan a garantir un bo contraste e lexibilidade.  
 
-------
+---
 
 ### **3️⃣ Fase de desenvolvemento: transformación a código**
 
 Unha vez aprobado o deseño, os desenvolvedores transfórmano en código. Aquí entran en xogo ferramentas que facilitan a implementación de estilos e estrutura do sitio.
 
-🔹 **Ferramentas clave:**
+#### 🔹**Ferramentas clave:**
 
-- **Tailwind CSS / Bootstrap**: Frameworks CSS para facilitar o deseño responsivo.
-- **Sass / SCSS**: Preprocesadores CSS que melloran a organización do código.
-- **Figma Tokens / Style Dictionary**: Para traducir estilos de deseño en variables reutilizables.
+  - **Tailwind CSS / Bootstrap / e outros**: Frameworks CSS para facilitar o deseño responsivo.
+  - **Sass / SCSS**: Preprocesadores CSS que melloran a edición e organización do código CSS.
+  - **Figma Tokens / Style Dictionary**: Para traducir estilos de deseño en variables reutilizables.
 
-**Como afectan ao desenvolvemento?**
- ✅ Evitan que os desenvolvedores teñan que interpretar os deseños a man.
- ✅ Permiten extraer medidas, cores e fontes directamente desde a ferramenta de deseño.
+**Como afectan ao desenvolvemento?**  
+ ✅ Evitan que os desenvolvedores teñan que interpretar os deseños a man.  
+ ✅ Permiten extraer medidas, cores e fontes directamente desde a ferramenta de deseño.  
  ✅ Melloran a coherencia entre deseño e código grazas a sistemas de deseño.
 
-------
+---
 
 ### **4️⃣ Fase de validación: probas e optimización**
 
 Antes de lanzar o sitio, cómpre validar se o deseño funciona correctamente en diferentes dispositivos e se a experiencia do usuario é a esperada.
 
-🔹 **Ferramentas clave:**
+🔹 **Ferramentas clave:**  
 
-- **Google Lighthouse**: Para analizar o rendemento e a accesibilidade.
-- **Hotjar**: Para ver como os usuarios interactúan co sitio.
-- **BrowserStack**: Para probar compatibilidade con diferentes navegadores.
+- **Google Lighthouse**: Para analizar o rendemento e a accesibilidade.  
+- **Hotjar**: Para ver como os usuarios interactúan co sitio.  
+- **BrowserStack**: Para probar compatibilidade con diferentes navegadores.  
 
-**Como afectan ao desenvolvemento?**
- ✅ Detectan problemas de carga e usabilidade antes de que afecten aos usuarios.
- ✅ Permiten optimizar a accesibilidade e mellorar a experiencia de usuario.
- ✅ Axudan a mellorar a conversión e a retención de usuarios.
+**Como afectan ao desenvolvemento?**  
+ ✅ Detectan problemas de carga e usabilidade antes de que afecten aos usuarios.  
+ ✅ Permiten optimizar a accesibilidade e mellorar a experiencia de usuario.  
+ ✅ Axudan a mellorar a conversión e a retención de usuarios.  
 
-------
+---
 
 ## 🔹 **Por que as ferramentas de deseño son ferramentas clave?**
 
 As ferramentas de deseño **non son un extra**, senón unha parte esencial do proceso de desenvolvemento web. Un bo uso destas ferramentas permite:
 
-✅ **Aforrar tempo e custos** evitando problemas de deseño tardíos.
- ✅ **Facilitar a colaboración** entre deseñadores, desenvolvedores e clientes.
- ✅ **Mellorar a accesibilidade e a experiencia de usuario** desde o principio.
- ✅ **Garantir unha correcta implementación de estilos e interaccións** no código.
+ ✅ **Aforrar tempo e custos** evitando problemas de deseño tardíos.  
+ ✅ **Facilitar a colaboración** entre deseñadores, desenvolvedores e clientes.  
+ ✅ **Mellorar a accesibilidade e a experiencia de usuario** desde o principio.  
+ ✅ **Garantir unha correcta implementación de estilos e interaccións** no código.  
 
 Unha boa integración entre deseño e desenvolvemento **non só mellora a produtividade, senón tamén a calidade final do produto web**. 🚀
 
@@ -117,6 +115,7 @@ Estas empréganse para crear imaxes, logotipos e gráficos necesarios para a web
 - **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**: A ferramenta tradicional e potente para edición de imaxes, usada por moitos deseñadores para crear elementos gráficos e maquetacións.
 - **[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)**: Ideal para crear vectores, como logotipos e iconas, que son escalables sen perder calidade.
 - **[Canva](https://www.canva.com/)**: Máis doada de usar e accesible, ofrece moitos modelos para creación de deseños gráficos, sendo unha boa opción para principiantes ou quen precise resultados rápidos.
+- **[Affinity](https://www.affinity.studio/)**: Suite de deseño gráfico profesional que integra nun único programa a edición vectorial, a edición de píxel e a maquetación editorial, como alternativa máis económica ao ecosistema de Adobe.
 
 ### 3. **Ferramentas de construción de sitios web:**
 
@@ -401,13 +400,14 @@ Se buscas ferramentas de código aberto para substituír Adobe Photoshop, Illust
 
 ### **Conclusión: Cal escoller segundo as túas necesidades?**
 
-| Ferramenta    | Alternativa a           | Plataforma            | Código aberto | Ideal para                               |
-| ------------- | ----------------------- | --------------------- | ------------- | ---------------------------------------- |
-| **GIMP**      | Photoshop               | Windows, macOS, Linux | ✅             | Edición de imaxes e retoque fotográfico. |
-| **Krita**     | Photoshop (ilustración) | Windows, macOS, Linux | ✅             | Ilustración dixital e pintura.           |
-| **Inkscape**  | Illustrator             | Windows, macOS, Linux | ✅             | Deseño vectorial e logotipos.            |
-| **Darktable** | Lightroom               | Windows, macOS, Linux | ✅             | Edición RAW e fotografía profesional.    |
-| **Blender**   | Adobe Dimension/3D      | Windows, macOS, Linux | ✅             | Modelado, animación e render 3D.         |
+| Ferramenta    | Alternativa a           | Plataforma            | Código aberto | Ideal para                                      |
+| ------------- | ----------------------- | --------------------- | ------------- | ----------------------------------------------- |
+| **GIMP**      | Photoshop               | Windows, macOS, Linux | ✅             | Edición de imaxes e retoque fotográfico.        |
+| **Krita**     | Photoshop (ilustración) | Windows, macOS, Linux | ✅             | Ilustración dixital e pintura.                  |
+| **Inkscape**  | Illustrator             | Windows, macOS, Linux | ✅             | Deseño vectorial e logotipos.                   |
+| **Darktable** | Lightroom               | Windows, macOS, Linux | ✅             | Edición RAW e fotografía profesional.           |
+| **Blender**   | Adobe Dimension/3D      | Windows, macOS, Linux | ✅             | Modelado, animación e render 3D.                |
+| **Affinity**  | Photoshop/Illustrator   | Windows, macOS, Linux | ✅             | Edición integrada de vectores, pixels e deseño. |
 
 
 

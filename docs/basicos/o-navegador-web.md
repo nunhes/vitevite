@@ -7,7 +7,7 @@ lastUpdated: true
 
 # {{ $frontmatter.title }}
 
-## 🌐 As Portas de Entrada ao Mundo Web
+## 🌐 As portas de entrada á web
 
 **Imaxina a web como unha cidade inmensamente rica en información**, con bibliotecas, tendas, museos e lugares de encontro. Os **navegadores web son as portas principais** que nos permiten entrar nesta cidade, mentres que os **clientes alternativos son as entradas adaptadas** para que todos, sen excepción, poidan acceder e disfrutar do seu contido.
 
@@ -15,23 +15,23 @@ Cando comezas a programar para a web, é fácil caer na tentación de **probar s
 
 Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**, senón tamén como debes teras en conta durante todo o proceso de deseño e desenvolvemento. Porque crear para a web significa crear para **todos os que poden chegar a ela**.
 
-## 🌍 Os Navegadores Web: Máis que Simples Visores
+## 🌍 Os navegadores web: máis que simples visores
 
 **Un navegador web é unha das pezas de software máis complexas** que a maioría dos usuarios usan a diario. Pero, ¿que está realmente sucedendo cando escribes un URL e premes Intro?
 
-### **A Anatomía dun Navegador Moderno**
+### **Anatomía dun navegador moderno**
 
-1. **Interface de Usuario:** O que ves e con que interactúas
-2. **Motor de Navegación:** Coordina as accións entre a interface e o motor de renderizado
-3. **Motor de Renderizado:** Interpreta HTML, CSS e mostra a páxina (Blink, Gecko, WebKit)
+1. **Interface de usuario:** O que ves e con que interactúas
+2. **Motor de navegación:** Coordina as accións entre a interface e o motor de renderizado
+3. **Motor de renderizado:** Interpreta HTML, CSS e mostra a páxina (Blink, Gecko, WebKit)
 4. **Motor JavaScript:** Executa o código JS (V8, SpiderMonkey, JavaScriptCore)
-5. **Capas de Networking:** Xestionan as solicitudes HTTP/HTTPS
+5. **Capas de networking:** Xestionan as solicitudes HTTP/HTTPS
 6. **Almacenamento:** Cookies, localStorage, IndexedDB
-7. **Sistema de Seguridade:** Sandboxing, protección contra ataques
+7. **Sistema de seguridade:** Sandboxing, protección contra ataques
 
 **Curiosidade histórica:** Os primeiros navegadores como Mosaic (1993) apenas podían renderizar texto e imaxes. Hoxe, navegadores como Chrome ou Firefox son **plataformas completas de aplicacións** capaces de renderizar gráficos 3D, procesar vídeo en tempo real e executar código complexo.
 
-### **Os Principais Navegadores e as súas Diferenzas**
+### **Os principais navegadores e as súas diferenzas**
 
 #### **Google Chrome (Blink)**
 **A miúdo chamado "o estándar"**, Chrome domina o mercado cun ~65% de cota global. O seu motor Blink (derivado de WebKit) impulsa tamén outros navegadores como Edge, Brave e Opera. A súa **integración cos servizos de Google** e extensa colección de extensións fan del popular entre usuarios e desenvolvedores.
@@ -45,7 +45,7 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
 #### **Microsoft Edge (Blink)**
 **A transformación de unha lenda**, Edge abandonou o seu motor EdgeHTML e adoptou Blink. A súa **integración co ecosistema Windows** e funcións como Collections fan del unha opción atractiva para usuarios corporativos e persoais dentro deste ecosistema.
 
-### **¿Por que Importan estas Diferenzas para Ti como Desenvolvedor?**
+### **¿Por que importan estas diferenzas para ti como desenvolvedor?**
 
 **Cada motor de renderizado é como un tradutor** que interpreta o teu código HTML/CSS/JS. Aínda que os estándares web teñen avanzado moito, **aínda existen diferenzas sutís** na implementación:
 
@@ -61,15 +61,15 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
 
 **Os navegadores antigos son como tradutores que non coñecen o idioma moderno** - poden entender as palabras básicas pero perden os matices. Por iso, técnicas como **progressive enhancement** (melloramento progresivo) son tan importantes: creas unha experiencia básica que funciona en todas partes, e engades capas de sofisticación para navegadores modernos.
 
-## 👁️‍🗨️ Clientes Alternativos: Outras Formas de Percibir a Web
+## 👁️‍🗨️ Clientes alternativos: Outras maneiras de percibir a web
 
 **A web non é só visual**. Para moitas persoas, a experiencia web chega a través doutros sentidos ou interfaces adaptadas. Como deseñadores e desenvolvedores, debemos **pensar máis alá da pantalla**.
 
-### **Lectores de Pantalla: Os Ollos Auditivos**
+### **Lectores de pantalla: Os ollos auditivos**
 
 **Un lector de pantalla é unha aplicación que converte o contido visual en saída auditiva ou braille**. Para usuarios con discapacidade visual, son literalmente a súa ventá á web.
 
-#### **Principais Lectores de Pantalla**
+#### **Principais lectores de pantalla**
 
 1. **NVDA (NonVisual Desktop Access)**
    - **Gratuíto e de código aberto**, moi popular na comunidade
@@ -91,7 +91,7 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
    - Preinstalado en todos os dispositivos Android
    - Melloras constantes coas actualizacións do sistema
 
-### **Como Funcionan os Lectores de Pantalla?**
+### **Como funcionan os lectores de pantalla?**
 
 **Os lectores de pantalla non "ven" a páxina como facería unha persoa**. No seu lugar:
 
@@ -116,7 +116,7 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
 </div>
 ```
 
-### **Navegadores Textuais: A Web Sen Distraccións**
+### **Navegadores textuais: a web sen distraccións**
 
 **Navegadores como Lynx ou w3m** presentan a web en modo texto, sen imaxes, CSS nin JavaScript. Aínda que parezan arcaicos, son **ferramentas valiosas** por varias razóns:
 
@@ -127,16 +127,16 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
 
 **Probar o teu sitio nun navegador textual** é un excelente exercicio para identificar problemas de estrutura e contido.
 
-### **Navegadores Especializados e Dispositivos Alternativos**
+### **Navegadores especializados e dispositivos alternativos**
 
 - **Navegadores para persoas con discapacidade cognitiva** con interfaces simplificadas
 - **Navegadores controlados por voz** para usuarios con limitacións motoras
 - **Dispositivos de saída braille** que converten texto en puntos táctiles
 - **Ampliadores de pantalla** para usuarios con baixa visión
 
-## 🛠️ Como Usar Estes Coñecementos no Deseño e Desenvolvemento
+## 🛠️ Como usar estes coñecementos no deseño e desenvolvemento
 
-### **1. Deseño Inclusivo desde o Comezo**
+### **1. Deseño inclusivo desde o comezo**
 
 **Non esperes ata o final para pensar na accesibilidade**. Incorpóraa desde a fase de wireframes:
 
@@ -145,7 +145,7 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
 - **Espazado e tamaño dos elementos interactivos** (mínimo 44x44 píxeles)
 - **Fluxo lóxico** de información que funcione tanto visual como auditivamente
 
-### **2. Desenvolvemento con Semántica Correcta**
+### **2. Desenvolvemento con semántica correcta**
 
 **O HTML semántico non é só "bonito" - é funcional**:
 
@@ -177,25 +177,25 @@ Nesta guía, imos explorar **non só como funcionan estas "portas de entrada"**,
 - **Entender a estrutura** de listas, tablas e formularios
 - **Proporcionar atallos** para saltar entre seccións
 
-### **3. Probas Reais no Proceso de Desenvolvemento**
+### **3. Probas reais no proceso de desenvolvemento**
 
 **As probas de accesibilidade non deben ser unha idea tardía**:
 
-#### **Proba con Navegadores Diferentes**
+#### **Proba con navegadores diferentes**
 - **Chrome/Firefox/Safari/Edge** en escritorio
 - **Navegadores móbiles** (iOS Safari, Android Chrome)
 - **Navegadores con JavaScript desactivado** (comproba funcionalidade básica)
 - **Navegadores con alta configuración de zoom** (200-400%)
 
-#### **Proba con Tecnoloxías Asistivas**
+#### **Proba con tecnoloxías de asistencia**
 1. **Activa VoiceOver** no teu Mac (Cmd+F5) e navega polo teu sitio só con teclado
 2. **Instala a extensión axe DevTools** no Chrome para análise automática
 3. **Usa NVDA** en Windows (gratuíto) para probas en profundidade
 4. **Proba o teu sitio en modo alto contraste** de Windows
 
-### **4. Ferramentas e Recursos para Desenvolvedores**
+### **4. Ferramentas e recursos para desenvolvedores**
 
-#### **Ferramentas de Análise**
+#### **Ferramentas de análise**
 ```javascript
 // Comprobacións básicas de accesibilidade que podes facer no teu código
 function verificarAccesibilidadBasica() {
@@ -216,17 +216,17 @@ function verificarAccesibilidadBasica() {
 }
 ```
 
-#### **Recursos Esenciais**
+#### **Recursos esenciais**
 - **WCAG 2.1:** Estándares internacionais de accesibilidade web
 - **WAI-ARIA:** Especificacións para accesibilidade en aplicaciones ricas
 - **WebAIM:** Guías prácticas e ferramentas de proba
 - **A11Y Project:** Recursos accesibles para desenvolvedores
 
-## 🔄 O Ciclo de Desenvolvemento Centrado no Usuario
+## 🔄 O ciclo de desenvolvemento centrado no usuario
 
 **Crear pensando en todas as "portas de entrada"** transforma o teu proceso de desenvolvemento:
 
-### **Fase 1: Investigación e Planificación**
+### **Fase 1: Investigación e planificación**
 - **Identifica os usuarios reais** (non só os "ideais")
 - **Define casos de uso** para diferentes capacidades e dispositivos
 - **Establece métricas de accesibilidade** desde o inicio
@@ -242,7 +242,7 @@ function verificarAccesibilidadBasica() {
 - **JavaScript progresivo** que mellora pero non bloquea
 - **Probas continuas** en diferentes navegadores e dispositivos
 
-### **Fase 4: Proba e Validación**
+### **Fase 4: Proba e validación**
 - **Probas automatizadas** con axe, Lighthouse, etc.
 - **Probas manuais** con tecnoloxías asistivas
 - **Probas con usuarios reais** de diferentes capacidades
@@ -252,7 +252,7 @@ function verificarAccesibilidadBasica() {
 - **Actualizacións regulares** para novos navegadores/dispositivos
 - **Incorporación de feedback** dos usuarios
 
-## 📈 A Importancia Empresarial e Ética
+## 📈 A importancia empresarial e ética
 
 **A accesibilidade non é só unha cuestión técnica ou ética - é un bo negocio**:
 
@@ -262,7 +262,7 @@ function verificarAccesibilidadBasica() {
 4. **Cumprimento legal:** Cada vez máis países teñen leis que requiren accesibilidade web
 5. **Innovación:** Os desafíos da accesibilidade conducen a solucións creativas
 
-## 🚀 Conclusión: Creando para Todas as Portas
+## 🚀 Conclusión: Creando para todas as portas
 
 **Os navegadores e clientes web non son só ferramentas que os usuarios usan** - son o **contexto no que existe o teu traballo**. Coñecer e respectar esta diversidade non é unha restrición á túa creatividade, senón unha **oportunidade para crear traballos máis resistentes, inclusivos e efectivos**.
 
@@ -273,3 +273,4 @@ function verificarAccesibilidadBasica() {
 
 **A verdadeira mestría no desenvolvemento web** chega cando podes crear experiencias que, partindo dun mesmo código, se adaptan graciosamente a cada usuario, independentemente de como accedan á web.
 
+---

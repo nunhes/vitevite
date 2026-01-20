@@ -113,9 +113,9 @@ Podemos escribir unha mensaxe de confirmación dentro das comiñas que se usa pa
 A mensaxe de confirmación debe ser un resumo descritivo dos cambios que está a facer no repositorio.
 
 Despois de executar ese comando, obterás os detalles técnicos sobre o *commit* impreso no terminal.
-E iso é basicamente!, fixeches un *commit* no teu proxecto. 🎉 agora se escribimos git status deberiamos ver isto:
+E iso é basicamente!, fixeches un *commit* no teu proxecto. 🎉 agora se escribimos git status deberiamos ver isto:  
 
-![9HHIf327i](./assets/1739213475201-21.jpg)
+![9HHIf327i](./assets/1739213475201-21.jpg)  
 
 Antes de poder cometer cambios no noso código, necesitamos decidir que arquivos ou que cambios colocaremos (engadir) dentro da área intermedia. e desde a área de posta en escena que comprometemos.
 
