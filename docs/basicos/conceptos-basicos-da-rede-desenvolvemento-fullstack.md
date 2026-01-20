@@ -1,6 +1,7 @@
 ---
 title: Conceptos básicos da rede para o desenvolvemento full-stack
 description: A rede constitúe a columna vertebral de calquera interacción dixital, permitindo unha comunicación entre dispositivos, servidores e aplicacións
+lang: gl
 lastUpdated: true
 ---
 

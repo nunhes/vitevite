@@ -7,7 +7,7 @@ hero:
   text: "Elaboración de plantillas e formularios"
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW🧊2025
+    alt: DAW🧊2026
   actions:
     - theme: brand
       text: Depurar CSS
@@ -64,4 +64,4 @@ Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de 
 
 ---
 
-DAW🧊2025
+DAW🧊2026

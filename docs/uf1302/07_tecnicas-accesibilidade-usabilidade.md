@@ -3,11 +3,11 @@ title: Accesibilidade ii
 lastUpdated: true
 ---
 
-# Introdución ás Técnicas de Accesibilidade e Usabilidade no Deseño Web
+# Introdución ás técnicas de accesibilidade e usabilidade no deseño web
 
 No mundo do desenvolvemento web, crear sitios que sexan **accesibles** e **usables** é esencial para garantir que todas as persoas, independentemente das súas capacidades ou dispositivos, poidan interactuar de forma eficiente e satisfactoria co contido en liña. Neste guión, exploraremos os conceptos de **accesibilidade** e **usabilidade**, as súas vantaxes, aplicacións prácticas e recursos para implementalas correctamente.
 
-## Accesibilidade Web
+## Accesibilidade web
 A **accesibilidade web** refírese ao deseño e desenvolvemento de sitios web que poden ser utilizados por todas as persoas, incluíndo aquelas con discapacidades visuais, auditivas, motoras ou cognitivas. Un sitio accesible non só beneficia a usuarios con discapacidades, senón que tamén mellora a experiencia para todos os usuarios.
 
 - **Definición de accesibilidade**: É a práctica de garantir que o contido web estea dispoñible para todos, independentemente das súas limitacións físicas ou técnicas.
@@ -21,7 +21,7 @@ A **accesibilidade web** refírese ao deseño e desenvolvemento de sitios web qu
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/): Estándares internacionais para a accesibilidade web.
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/): Ferramenta para comprobar a accesibilidade dun sitio web.
 
-## Usabilidade Web
+## Usabilidade web
 A **usabilidade** refírese á facilidade con que os usuarios poden interactuar cun sitio web para alcanzar os seus obxectivos de forma eficiente e satisfactoria. Un sitio usable é intuitivo, rápido e fácil de navegar.
 
 - **Definición de usabilidade**: É a medida da calidade da experiencia do usuario ao interactuar cun sitio web.
@@ -32,7 +32,7 @@ A **usabilidade** refírese á facilidade con que os usuarios poden interactuar 
 - [Nielsen Norman Group](https://www.nngroup.com/): Artigos e estudos sobre usabilidade e experiencia do usuario.
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse): Ferramenta para avaliar a usabilidade e rendemento dun sitio web.
 
-## Aplicacións para Verificar a Accesibilidade e Usabilidade
+## Aplicacións para verificar a accesibilidade e usabilidade
 Existen numerosas ferramentas e recursos para comprobar se un sitio web cumpre cos estándares de accesibilidade e usabilidade:
 - **Aplicacións para verificar a accesibilidade**:
   - [AXE](https://www.deque.com/axe/): Extensión de navegador para analizar a accesibilidade.
@@ -41,7 +41,7 @@ Existen numerosas ferramentas e recursos para comprobar se un sitio web cumpre c
   - [W3C](https://www.w3.org/): Organización que establece os estándares web.
   - [MDN Web Docs](https://developer.mozilla.org/): Documentación sobre estándares web e boas prácticas.
 
-## Deseño de Sitios Web Usables
+## Deseño de sitios web usables
 Un sitio web usable debe ter unha estrutura clara, un deseño atractivo e ser adaptable a diferentes dispositivos. Algunhas características clave inclúen:
 - **Descrición de sitios web usables**: Menús sinxelos, contido ben organizado e velocidade de carga rápida.
 - **Adaptación a dispositivos**: Uso de deseño responsivo para que o sitio se adapte a pantallas de diferentes tamaños.
@@ -58,4 +58,4 @@ Con estes conceptos e recursos, estarás preparado para crear sitios web que non
 
 ---
 
-DAW🧊2025
+DAW🧊2026

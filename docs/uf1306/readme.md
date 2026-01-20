@@ -7,7 +7,7 @@ hero:
   text: "Probas de funcionalidade e optimización"
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW🧊2025
+    alt: DAW🧊2026
   actions:  
     - theme: brand
       text: Probas de funcionalidade e optimización
@@ -79,4 +79,4 @@ Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de 
 
 ---
 
-DAW🧊2025
+DAW🧊2026

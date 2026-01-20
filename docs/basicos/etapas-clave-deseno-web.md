@@ -1,6 +1,7 @@
 ---
 title: Etapas clave no deseño de sitios web
 description: Aqui atoparás unha guía dos pasos a seguir na practica do deseño web.
+lang: gl
 lastUpdated: true
 ---
 

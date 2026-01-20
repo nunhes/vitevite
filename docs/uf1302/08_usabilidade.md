@@ -247,4 +247,4 @@ No caso dos produtos web, o ciclo adoita ser máis dinámico, coa posibilidade d
 
 ---
 
-DAW🧊2025
+DAW🧊2026

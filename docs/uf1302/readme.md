@@ -7,7 +7,7 @@ hero:
   text: "Creación de páxinas web con linguaxe de marcas"
   image:
     src: /html5.svg
-    alt: DAW🧊2025
+    alt: DAW🧊2026
   actions:
     - theme: brand
       text: Linguaxes de marcas
@@ -36,6 +36,9 @@ hero:
     - theme: brand
       text: Accesibilidade ii
       link: /uf1302/07_tecnicas-accesibilidade-usabilidade
+    - theme: brand
+      text: Accesibilidade iii
+      link: /uf1302/tecnicas-aria
     - theme: brand
       text: HTML semántico
       link: /uf1302/09_html-semantico
@@ -76,4 +79,4 @@ Aquí atoparás lecturas complementarias as sesións lectivas e [prácticas](htt
     
 ---
 
-DAW🧊2025
+DAW🧊2026

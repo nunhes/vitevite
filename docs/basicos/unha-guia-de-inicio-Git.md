@@ -1,6 +1,7 @@
 ---
 title: Unha guía completa para principiantes de Git
 description: Aquí atoparas unha guía de iniciación ao sistema de control de versión Git, e o servizo de aloxamento Github.
+lang: gl
 lastUpdated: true
 ---
 
@@ -212,7 +213,42 @@ Deixovos algúns recursos👇:
 - Máis información sobre GitHub: [https://guides.github.com/](https://guides.github.com/)
 - Libro electrónico sobre como comezar con Git e GitHub (suxerido polo usuario Bobby Iliev): [https://github.com/bobbyiliev/introduction-to-git-and-github-ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)
 
+----
 
+### Aclaración
+
+Git pódese empregar perfectamente **sin GitHub**, en modo local. De feito, Git foi deseñado para funcionar localmente e GitHub é só un dos moitos servizos para aloxar repositorios remotos.
+
+## Git en local (sen servizos como GitHub):
+- **Inicializar repositorio**: `git init`
+- **Hacer commits**: `git add` y `git commit`
+- **Ver historial**: `git log`
+- **Ramas**: `git branch`, `git checkout`
+- **Fusionar**: `git merge`
+
+## Cando necesitarías GitHub (ou similar):
+- **Colaboración** con outras persoas
+- **Backup remoto** do teu código
+- **CI/CD** para integración continua
+- **Portfolio** públicación de proxectos
+- **Issue tracking** e *project management*
+
+## Alternativas a GitHub:
+- **GitLab** - tamén ten versión auto-aloxada
+- **Bitbucket** - de Atlassian
+- **Gitea** / **Forgejo** - software lixeiro para auto-hospedar
+- **Codeberg** - alternativa open source
+
+## Recomendación:
+1. **Empieza con Git local** para aprender os fundamentos
+2. Se queres backup sinxelo, ppdes usar:
+   - Un servidor propio (SSH)
+   - Un disco externo
+   - Google Drive/Dropbox (aínda que non é o óptimo)
+3. **Só necesitas GitHub cando**:
+   - Queiras compartir código
+   - Necesites colaborar
+   - Queiras aproveitar as súas ferramentas extra
 
 ____
 

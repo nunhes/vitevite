@@ -1,6 +1,7 @@
 ---
 title: 10 principios esenciais do deseño de sitios web
 description: Aqui atoparas unha guía dos pasos a seguir na practica do deseño web.
+lang: gl
 lastUpdated: true
 ---
 
@@ -16,13 +17,13 @@ Identificamos 10 principios fundamentais de deseño para que poidas crear un sit
 
 Un dos obxectivos de calquera deseño de sitio web é compartir información cos visitantes do sitio. Podes indicar que información é máis importante para os visitantes cunha tipografía clara e [xerarquía](https://es.squarespace.com/blog/que-es-la-estructura-de-una-pagina-web) de fontes .
 
-Isto significa que os contidos do teu sitio web deben ter [títulos claros, títulos de sección e texto do corpo](https://support.squarespace.com/hc/en-us/articles/13595491920781-Writing-accessible-site-content) . Como guía, comeza tentando manter as fontes e os estilos de tipografía por debaixo de catro por páxina web.
+Isto significa que os contidos do teu sitio web deben ter títulos claros, títulos de sección e texto do corpo. Como guía, comeza tentando manter as fontes e os estilos de tipografía por debaixo de catro por páxina web.
 
 Asegúrate de aplicar títulos e títulos dun xeito que teña sentido para o teu contido. Considera o estilo desta publicación blog como exemplo. A tipografía usa o tamaño e o estilo da fonte para sinalar a xerarquía da información da páxina, desde o título ata as entradas principais e o contido do corpo.
 
 [Organizar claramente o contido do teu sitio web](https://es.squarespace.com/blog/como-crear-un-wireframe-para-un-sitio-web) fai que os visitantes poidan ler e explorar o teu sitio máis facilmente. Tamén facilita que os motores de busca comprendan a estrutura do teu sitio, o que pode [mellorar o seu SEO](https://es.squarespace.com/blog/como-optimizar-tu-pagina-web-para-motores-de-busqueda) e as súas clasificacións de busca.
 
-[Consulta a guía Squarespace para escribir copia do sitio web](https://es.squarespace.com/blog/como-escribir-contenido-para-paginas-web)
+[Consulta a guía de Squarespace para escribir textos efectivos no teu sitio web](https://es.squarespace.com/blog/como-escribir-contenido-para-paginas-web)
 
 ## 2. Elixe cores para o equilibrio visual, o contraste e o ton
 
@@ -56,7 +57,7 @@ Non tes que ser un deseñador profesional para descubrir como colocar espazos ne
 
 ## 5. Fai que o teu sitio web funcione en calquera dispositivo
 
-Só nos Estados Unidos, case [a metade do tráfico web](https://www.statista.com/statistics/683082/share-of-website-traffic-coming-from-mobile-devices-usa/#:~:text=As of the first quarter,the third quarter of 2022.) procede dun dispositivo móbil. Isto significa que un bo deseño web ten que adaptarse a diferentes tamaños de pantalla e dispositivos para ser realmente efectivo.
+Só nos Estados Unidos, case [a metade do tráfico web](https://www.statista.com/statistics/683082/share-of-website-traffic-coming-from-mobile-devices-usa/) procede dun dispositivo móbil. Isto significa que un bo deseño web ten que adaptarse a diferentes tamaños de pantalla e dispositivos para ser realmente efectivo.
 
 A maioría dos creadores de sitios web teñen esta adaptabilidade integrada no seu sistema de deseño. Así, hoxe, a maioría dos sitios web teñen un [deseño responsivo](https://support.squarespace.com/hc/articles/115003287447), o que significa que axustan automaticamente o tamaño da tipografía e do contido a unha pantalla máis pequena ou estreita. 
 

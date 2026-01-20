@@ -4,14 +4,14 @@ lastUpdated: true
 ---
 
 # {{ $frontmatter.title }}
-
+<!--
 - [Garantir que as páxinas web sexan accesibles para todos](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/1-introduction) 1 minuto
 - [Navegar pola web con máis dun navegador](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/2-client-tools) 2 minuto
 - [Garantir a accesibilidade con ferramentas para desenvolvedores](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/3-developer-tools) 2 minuto
 - [Garantir que os enlaces e as imaxes sexan accesibles](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/4-links-images) 4 minuto
 - [Deseño para a accesibilidade](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/5-accessibility-design-concepts) 3 minuto
 - [Comprobación de coñecementos](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/6-knowledge-check) 2 minuto
-- [Resumo](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/7-summary) 1 minuto
+- [Resumo](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/7-summary) 1 minuto -->
 
 Hai varias ferramentas e informes a túa disposición que poden salientar os problemas que deben abordarse. Tamén hai estándares como as etiquetas `ARIA` que farán que a túa aplicación sexa utilizable por todos.
 
@@ -237,4 +237,4 @@ _\_ref:_
 
 ---
 
-DAW🧊2025
+DAW🧊2026

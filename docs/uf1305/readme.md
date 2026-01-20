@@ -7,7 +7,7 @@ hero:
   text: "Programación con linguaxes de guión en páxinas web"
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW🧊2025
+    alt: DAW🧊2026
   actions:
     - theme: brand
       text: Metodoloxía da programación
@@ -109,4 +109,4 @@ Aquí tes lecturas complementarias as sesións lectivas e practicas do curso de 
 
 ---
 
-DAW🧊2025
+DAW🧊2026

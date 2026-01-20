@@ -84,4 +84,4 @@ Así que lembra, **programar cambia a nosa forma de pensar e desenvolver soluci�
 
 ---
 
-DAW🧊2025
+DAW🧊2026

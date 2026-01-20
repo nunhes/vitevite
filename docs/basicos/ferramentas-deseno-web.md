@@ -1,6 +1,7 @@
 ---
 title: Ferramentas de deseño e desenvolvemento web
 description: As ferramentas de deseño web xogan un papel fundamental no desenvolvemento web
+lang: gl
 lastUpdated: true
 ---
 
@@ -40,6 +41,7 @@ Nesta etapa créanse todos os elementos gráficos que conformarán a interface d
 - **Adobe Photoshop / GIMP**: Para edición de imaxes e optimización.
 - **Adobe Illustrator / Inkscape**: Para crear gráficos vectoriais como logotipos e iconas.
 - **Canva**: Para deseños rápidos sen coñecementos avanzados.
+- **[Affinity Studio](https://www.affinity.studio/)**: Unha ferramenta integral de tratamento gráfico -vertorial e mapa de bits, todo en un-. Gratuita.
 
 **Como afectan ao desenvolvemento?**
  ✅ Permiten crear unha identidade visual coherente.
@@ -411,4 +413,4 @@ Se buscas ferramentas de código aberto para substituír Adobe Photoshop, Illust
 
 ---
 
-DAW🧊2025
+DAW🧊2026

@@ -218,4 +218,4 @@ As linguaxes de marcado son ferramentas fundamentais na era dixital, utilizadas 
 
 ---
 
-DAW🧊2025
+DAW🧊2026

@@ -6,7 +6,7 @@ hero:
   name: "Básicos"
   image:
     src: /web-ui-svgrepo-com.svg
-    alt: DAW🧊2025
+    alt: DAW🧊2026
   actions:
     - theme: alt
       text: Como funciona Internet
@@ -24,11 +24,17 @@ hero:
       text: Ferramentas de deseño
       link: /basicos/ferramentas-deseno-web
     - theme: brand
+      text: Navegadores web
+      link: /basicos/o-navegador-web
+    - theme: brand
       text: Editores de código
       link: /basicos/editores-codigo
     - theme: brand
       text: Git, unha guía de inicio
       link: /basicos/unha-guia-de-inicio-Git
+    - theme: brand
+      text: As imaxes no deseño web
+      link: /basicos/as-imaxes-no-deseno-web
 
 features:
   - icon: 📐
@@ -56,4 +62,4 @@ Coñecer como funciona Internet, saber cales son os principios do deseño web a 
 
 ---
 
-DAW🧊2025
+DAW🧊2026

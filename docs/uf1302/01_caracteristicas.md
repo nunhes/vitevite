@@ -260,4 +260,4 @@ Dependendo do tipo de marcas que utilicemos, as linguaxes de marcas pódense div
 
 ---
 
-DAW🧊2025
+DAW🧊2026

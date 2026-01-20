@@ -1,6 +1,7 @@
 ---
 title: Editores de código
 description: Os editores de código son ferramentas que os programadores e desenvolvedores web empregan para escribir e editar código
+lang: gl
 lastUpdated: true
 ---
 
@@ -279,4 +280,4 @@ Seguir atentos á web!
 
 ---
 
-DAW🧊2025
+DAW🧊2026

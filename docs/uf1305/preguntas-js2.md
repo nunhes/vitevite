@@ -362,12 +362,12 @@ Vou crear un exame completo con **80 preguntas** organizadas por seccións, gara
 ---
 
 ### **Sección 6: Relacionar Conceptos (10 preguntas)**  
-| Concepto           | Definición/Exemplo                                           |
-| ------------------ | ------------------------------------------------------------ |
+| Concepto           | Definición/Exemplo                                                     |
+| ------------------ | ---------------------------------------------------------------------- |
 | **Hoisting**       | Variables declaradas con `var` poden usarse antes da súa declaración ✅ |
-| **Closure**        | Función que recorda o seu ámbito léxico ✅                    |
-| **Event Bubbling** | Propagación de eventos dende o elemento fillo ao pai ✅       |
-| **Promise**        | Obxecto para xestión de operacións asíncronas ✅              |
+| **Closure**        | Función que recorda o seu ámbito léxico ✅                              |
+| **Event Bubbling** | Propagación de eventos dende o elemento fillo ao pai ✅                 |
+| **Promise**        | Obxecto para xestión de operacións asíncronas ✅                        |
 
 *(6 filas máis para conceptos como: Prototype, AJAX, Strict Mode, etc.)*  
 
@@ -837,4 +837,4 @@ Esta sección desafía aos alumnos a identificar e corrixir erros comúns, refor
 
 ---
 
-DAW🧊2025
+DAW🧊2026

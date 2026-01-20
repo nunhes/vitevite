@@ -6,7 +6,7 @@ hero:
   name: Guías
   image:
     src: /strategy-brainstorm-svgrepo-com.svg
-    alt: DAW🧊2025
+    alt: DAW🧊2026
   actions:
 
 features:
@@ -35,4 +35,4 @@ Nesta sección atoparás guías básicas de iniciación as linguaxes de marcado 
 
 ---
 
-DAW🧊2025
+DAW🧊2026
