@@ -14,7 +14,7 @@ export default defineConfig({
     }
   },
   lang: 'gl',
-  title: "DAW🧊2025",
+  title: "DAW🧊2026",
   description: "Confección e publicación de páxinas web ",
 
 
@@ -31,7 +31,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/favicon.svg',
-    siteTitle: 'DAW🧊2025',
+    siteTitle: 'DAW🧊2026',
     nav: [
       { text: 'Home', link: 'https://bitsolto.com/daw2025/' },
       // { text: 'Examples', link: '/markdown-examples' }
@@ -81,7 +81,7 @@ export default defineConfig({
       }
     ],
     footer: {
-      message: 'DAW🧊2025',
+      message: 'DAW🧊2026',
       copyright: 'i.berndz © 2019-present'
     },
     externalLinkIcon: true,
