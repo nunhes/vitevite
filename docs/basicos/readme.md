@@ -35,6 +35,9 @@ hero:
     - theme: brand
       text: Git, unha guía de inicio
       link: /basicos/unha-guia-de-inicio-Git
+    - theme: brand
+      text: Metodoloxía da programación
+      link: /basicos/metodoloxia-programacion
 
 features:
   - icon: 📐
